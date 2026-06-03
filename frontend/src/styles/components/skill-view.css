@@ -1,0 +1,14 @@
+/* Block: skill-view ─ contenedor de markdown generado por IA. */
+
+.skill-view__loading   { @apply py-4; }
+.skill-view__skeleton  { @apply bg-level-4 rounded-op-sm mb-3 animate-pulseSoft; }
+
+.skill-view__error {
+  @apply p-5 rounded-op-md text-red-400 text-sm;
+  background: rgba(239, 68, 68, 0.08);
+  border: 1px solid rgba(239, 68, 68, 0.15);
+}
+
+.skill-view__empty {
+  @apply p-5 text-center text-txt-muted text-sm;
+}

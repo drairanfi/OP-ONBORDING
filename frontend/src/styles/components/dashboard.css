@@ -1,0 +1,243 @@
+/* Block: dashboard ─ layout principal post-selección de rol. */
+
+.dashboard {
+  @apply relative h-full w-full overflow-y-auto;
+}
+
+.dashboard__bg {
+  @apply absolute inset-0 pointer-events-none overflow-hidden;
+}
+
+.dashboard__container {
+  @apply relative z-10 w-full max-w-[1600px] mx-auto px-12 py-12;
+}
+
+/* ── Hero ─────────────────────────────────────────────────────────── */
+.dashboard__hero {
+  @apply flex items-start justify-between gap-10 mb-10;
+}
+
+.dashboard__hero-text { @apply flex flex-col gap-4 max-w-[820px]; }
+
+.dashboard__eyebrow { @apply mb-1; }
+
+.dashboard__title {
+  @apply text-[56px] leading-[1.05] font-bold tracking-tight;
+  background-image: linear-gradient(135deg, #FFFFFF 0%, #DCE3FD 45%, #97B1F9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.dashboard__title-em {
+  background-image: linear-gradient(135deg, #6689F4 0%, #4361EF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.dashboard__lead {
+  @apply text-lg leading-[28px] text-txt-tertiary max-w-2xl;
+}
+
+.dashboard__lead-em {
+  @apply text-txt-primary font-semibold;
+}
+
+.dashboard__actions {
+  @apply flex gap-2 flex-shrink-0;
+}
+
+/* ── Stats row ────────────────────────────────────────────────────── */
+.dashboard__stats {
+  @apply flex items-stretch gap-3 mb-12;
+}
+
+.dashboard__stat {
+  @apply flex-1 flex flex-col gap-2 p-5 rounded-op-xl;
+  @apply border border-level-6/50 bg-level-2/60;
+  backdrop-filter: blur(8px);
+}
+
+.dashboard__stat-label {
+  @apply text-[10px] font-bold tracking-[2.5px] uppercase text-txt-muted;
+}
+
+.dashboard__stat-value {
+  @apply text-2xl font-bold leading-none text-txt-primary;
+  background-image: linear-gradient(135deg, #FFFFFF 0%, #97B1F9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.dashboard__stat-meta {
+  @apply text-[12px] text-txt-muted;
+}
+
+/* ── Section header ───────────────────────────────────────────────── */
+.dashboard__section-head {
+  @apply flex items-center gap-3 mb-6;
+}
+
+.dashboard__section-num {
+  @apply w-7 h-7 rounded-op-sm flex items-center justify-center;
+  @apply text-[11px] font-bold text-op-400;
+  background: rgba(67, 97, 239, 0.12);
+  border: 1px solid rgba(67, 97, 239, 0.25);
+}
+
+.dashboard__section-title {
+  @apply text-xl font-bold text-txt-primary;
+}
+
+.dashboard__section-line {
+  @apply flex-1 h-px;
+  background: linear-gradient(to right, rgba(59,59,59,0.6) 0%, transparent 100%);
+}
+
+/* ── Workspace (grid + panel) ─────────────────────────────────────── */
+.dashboard__workspace {
+  @apply mb-8;
+}
+
+/* En modo split: cards apilados a la izquierda, panel sticky a la derecha. */
+.dashboard__workspace--split {
+  @apply grid gap-6 items-start;
+  grid-template-columns: minmax(0, 380px) minmax(0, 1fr);
+}
+
+/* ── Grid de cards ────────────────────────────────────────────────── */
+.dashboard__grid {
+  @apply grid gap-5;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+}
+
+/* En split: forzar una sola columna de cards en el carril izquierdo. */
+.dashboard__workspace--split .dashboard__grid {
+  grid-template-columns: 1fr;
+}
+
+/* ── Panel ────────────────────────────────────────────────────────── */
+.dashboard__panel {
+  @apply relative rounded-op-xl p-10 overflow-hidden;
+  background: linear-gradient(135deg, theme("colors.level.2") 0%, theme("colors.level.3") 100%);
+  border: 1px solid theme("colors.level.6");
+  box-shadow:
+    0 24px 60px rgba(0, 0, 0, 0.5),
+    inset 0 1px 0 rgba(255, 255, 255, 0.03);
+}
+
+/* En split: padding más ajustado y sticky para seguir el scroll de cards. */
+.dashboard__workspace--split .dashboard__panel {
+  @apply p-7 sticky;
+  top: 1.5rem;
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
+}
+
+.dashboard__panel::before {
+  content: "";
+  @apply absolute -top-32 -right-32 w-80 h-80 rounded-full pointer-events-none;
+  background: radial-gradient(circle, rgba(67,97,239,0.18), transparent 70%);
+}
+
+.dashboard__panel-head {
+  @apply relative flex justify-between items-center mb-7 pb-5;
+  border-bottom: 1px solid theme("colors.level.6");
+}
+
+.dashboard__panel-title {
+  @apply font-bold text-txt-primary flex items-center gap-3;
+}
+
+.dashboard__panel-title--chat  { @apply text-2xl; }
+.dashboard__panel-title--skill { @apply text-[26px]; }
+
+.dashboard__panel-icon-wrap {
+  @apply w-12 h-12 rounded-op-md flex items-center justify-center text-xl;
+  background: linear-gradient(135deg, #2C40E4 0%, #4361EF 100%);
+  border: 1px solid rgba(102, 137, 244, 0.45);
+  color: #FFFFFF;
+  box-shadow:
+    0 0 24px rgba(67, 97, 239, 0.45),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.dashboard__panel-body--chat  { @apply h-[520px]; }
+.dashboard__panel-body--skill { @apply max-h-[640px] overflow-y-auto pr-2; }
+
+/* En split el panel ya tiene su propio scroll: dejar que el body crezca. */
+.dashboard__workspace--split .dashboard__panel-body--skill {
+  max-height: none;
+  overflow-y: visible;
+  padding-right: 0;
+}
+
+.dashboard__panel-foot {
+  @apply mt-6 pt-5 flex gap-2;
+  border-top: 1px solid theme("colors.level.6");
+}
+
+/* ── Chat embebido dentro de "Mi Rol" ─────────────────────────────── */
+.dashboard__panel-chat {
+  @apply mt-8 pt-7 rounded-op-lg;
+  border-top: 1px solid theme("colors.level.6");
+}
+
+.dashboard__panel-chat-head {
+  @apply flex items-start gap-3 mb-5;
+}
+
+.dashboard__panel-chat-icon {
+  @apply w-10 h-10 rounded-op-md flex items-center justify-center text-base flex-shrink-0;
+  background: linear-gradient(135deg, #2C40E4 0%, #4361EF 100%);
+  border: 1px solid rgba(102, 137, 244, 0.45);
+  color: #FFFFFF;
+  box-shadow:
+    0 0 18px rgba(67, 97, 239, 0.40),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+.dashboard__panel-chat-title {
+  @apply text-lg font-bold text-txt-primary mb-1 tracking-tight;
+}
+
+.dashboard__panel-chat-sub {
+  @apply text-[13px] leading-[18px] text-txt-tertiary;
+}
+
+.dashboard__panel-chat-body {
+  @apply rounded-op-lg overflow-hidden;
+  height: 460px;
+  border: 1px solid theme("colors.level.6");
+  background: theme("colors.level.1");
+}
+
+.dashboard__panel-close {
+  @apply w-9 h-9 rounded-op-sm flex items-center justify-center text-base;
+  @apply text-txt-muted bg-level-3 border border-level-6;
+  @apply transition-colors duration-fast ease-op-ui;
+}
+.dashboard__panel-close:hover {
+  @apply text-txt-primary bg-level-4 border-op-600/40;
+}
+
+/* Responsive */
+@media (max-width: 1100px) {
+  .dashboard__hero { @apply flex-col gap-6; }
+  .dashboard__stats { @apply grid grid-cols-2 gap-3; }
+
+  /* El split necesita ancho — debajo de 1100px, vuelve a apilar. */
+  .dashboard__workspace--split {
+    grid-template-columns: 1fr;
+  }
+  .dashboard__workspace--split .dashboard__grid {
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  }
+  .dashboard__workspace--split .dashboard__panel {
+    position: static;
+    max-height: none;
+    overflow-y: visible;
+  }
+}

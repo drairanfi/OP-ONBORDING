@@ -1,0 +1,9 @@
+/* Block: dots ─ tres puntos pulsantes (loading inline). */
+
+.dots {
+  @apply inline-flex items-center gap-2;
+}
+
+.dots__dot {
+  @apply rounded-full;
+}

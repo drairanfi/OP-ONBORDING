@@ -1,0 +1,16 @@
+/* Globals: tipografía base, color de canvas y comportamiento de scroll. */
+
+body {
+  @apply font-sans bg-level-1 text-txt-secondary antialiased;
+  text-rendering: optimizeLegibility;
+  overflow: hidden;  /* la app maneja su propio scroll */
+}
+
+/* SVG icons inline: alinear con la línea base del texto. Los SVG del componente
+   Icon usan currentColor — heredan el color del padre y se centran vertical
+   con el texto contiguo en flex/grid o en flujo inline. */
+svg {
+  display: inline-block;
+  vertical-align: middle;
+  flex-shrink: 0;
+}

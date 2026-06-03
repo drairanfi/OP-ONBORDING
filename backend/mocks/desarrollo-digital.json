@@ -1,0 +1,120 @@
+{
+  "area": "desarrollo-digital",
+  "label": "Desarrollo Digital",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "backend-lead": {
+      "slug": "backend-lead",
+      "nombre": "Backend Lead",
+      "icono": "",
+      "descripcion_corta": "Lidera la arquitectura y evolución del backend, asegurando sistemas escalables, seguros y eficientes.",
+      "contexto_ai": "El Backend Lead es responsable de liderar el desarrollo, la arquitectura y la evolución de las soluciones backend, garantizando sistemas escalables, seguros y eficientes. Combina visión estratégica, liderazgo técnico y capacidad de innovación, trabajando con equipos multidisciplinarios para impulsar soluciones tecnológicas alineadas con las necesidades creativas y del negocio.",
+      "skills": {
+        "role": "El Backend Lead será responsable de liderar el desarrollo, la arquitectura y la evolución de las soluciones backend, garantizando sistemas escalables, seguros y eficientes. Este rol combina visión estratégica, liderazgo técnico y capacidad de innovación, trabajando en estrecha colaboración con equipos multidisciplinarios para impulsar soluciones tecnológicas alineadas con las necesidades creativas y del negocio.\n\n## Responsabilidades\n\n- Definir y mantener estándares técnicos del área de backend.\n- Liderar decisiones de arquitectura, diseño de servicios y buenas prácticas de desarrollo.\n- Diseñar, desarrollar e implementar APIs, servicios y estructuras de datos escalables.\n- Colaborar con equipos de frontend, diseño, QA y project management.\n- Supervisar infraestructura y procesos DevOps (cloud, contenedores, CI/CD).\n- Garantizar seguridad, rendimiento y sostenibilidad de las soluciones.\n- Mentorar al equipo backend, promoviendo aprendizaje continuo y calidad de código.\n- Identificar oportunidades para integrar automatización e inteligencia artificial.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dominio de Python (Django) y PHP.\n- Conocimiento de JavaScript para integraciones básicas.\n- Diseño y consumo de APIs RESTful.\n- Manejo de bases de datos relacionales y NoSQL (MySQL, PostgreSQL, MongoDB).\n- Conocimiento de arquitecturas MVC y microservicios.\n- Experiencia con AWS (EC2, S3, RDS, Lambda) y familiaridad con Azure.\n- Manejo de contenedores (Docker).\n- Implementación y mantenimiento de pipelines CI/CD.\n- Conocimiento en seguridad (OWASP, control de accesos, protección de datos).\n- Experiencia con herramientas de monitoreo, logging y testing automatizado.\n- Familiaridad con herramientas y servicios de inteligencia artificial.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo técnico y toma de decisiones estratégicas.\n- Comunicación efectiva con equipos técnicos y no técnicos.\n- Organización y priorización de tareas.\n- Pensamiento crítico y resolución de problemas complejos.\n- Trabajo colaborativo en equipos multidisciplinarios.\n- Compromiso con la calidad y cumplimiento de tiempos.\n- Proactividad y autonomía en la gestión de proyectos.\n- Mentalidad de mejora continua."
+      }
+    },
+    "backend-semi-senior": {
+      "slug": "backend-semi-senior",
+      "nombre": "Backend Semi Senior",
+      "icono": "",
+      "descripcion_corta": "Desarrolla y mantiene servicios, APIs e integraciones backend en entornos colaborativos y multidisciplinarios.",
+      "contexto_ai": "El Backend Semi-Senior desarrolla y mantiene soluciones backend eficientes y escalables, contribuyendo a la implementación de servicios, APIs e integraciones que soportan productos digitales innovadores. Tiene un enfoque práctico y ejecutor, participando en proyectos que integran automatización y, en algunos casos, inteligencia artificial, dentro de un entorno colaborativo y multidisciplinario.",
+      "skills": {
+        "role": "El Backend Semi-Senior será responsable de desarrollar y mantener soluciones backend eficientes y escalables, contribuyendo a la implementación de servicios, APIs e integraciones que soporten productos digitales innovadores. Este rol tendrá un enfoque práctico y ejecutor, participando en proyectos que integran automatización y, en algunos casos, inteligencia artificial, dentro de un entorno colaborativo y multidisciplinario.\n\n## Responsabilidades\n\n- Desarrollar e integrar servicios backend utilizando Python y PHP, aplicando buenas prácticas.\n- Construir y mantener APIs RESTful funcionales, claras y documentadas.\n- Participar en el modelado, mantenimiento y optimización de bases de datos.\n- Colaborar con equipos de frontend, QA, diseño y project management para garantizar integraciones eficientes.\n- Apoyar en la configuración de entornos de desarrollo utilizando Docker.\n- Participar en procesos de despliegue continuo.\n- Contribuir a la mejora continua del código, documentación técnica y calidad de entregables.\n- Implementar funcionalidades en servicios en la nube.\n- Apoyar integraciones con herramientas o servicios de inteligencia artificial cuando sea requerido.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Manejo de bases de datos relacionales y NoSQL (MySQL, PostgreSQL, MongoDB).\n- Uso de Docker para entornos de desarrollo.\n- Familiaridad con despliegues en la nube (AWS, Azure o similares).\n- Manejo de control de versiones (Git).\n- Conocimiento en buenas prácticas de seguridad, validación de datos y manejo de errores.\n- Experiencia en integración de APIs.\n- Deseable: experiencia consumiendo o integrando servicios de inteligencia artificial.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Autonomía y capacidad de ejecución técnica.\n- Comunicación clara y efectiva con equipos multidisciplinarios.\n- Buena gestión del tiempo y cumplimiento de objetivos.\n- Adaptabilidad a distintos proyectos y contextos.\n- Atención al detalle y orientación a la calidad.\n- Disposición para el aprendizaje continuo."
+      }
+    },
+    "frontend-lead": {
+      "slug": "frontend-lead",
+      "nombre": "Frontend Lead",
+      "icono": "",
+      "descripcion_corta": "Lidera el desarrollo y la calidad técnica de las interfaces digitales, impulsando innovación y buenas prácticas.",
+      "contexto_ai": "El Frontend Lead lidera el desarrollo y la calidad técnica de las interfaces digitales, asegurando experiencias web innovadoras, eficientes y alineadas con los estándares creativos de la compañía. Combina liderazgo técnico, visión estratégica y creatividad, impulsando la adopción de nuevas tecnologías y buenas prácticas para soluciones digitales de alto impacto.",
+      "skills": {
+        "role": "El Frontend Lead será responsable de liderar el desarrollo y la calidad técnica de las interfaces digitales, asegurando experiencias web innovadoras, eficientes y alineadas con los estándares creativos de la compañía.\n\nEste rol combina liderazgo técnico, visión estratégica y creatividad, impulsando la adopción de nuevas tecnologías y buenas prácticas para el desarrollo de soluciones digitales de alto impacto.\n\n## Responsabilidades\n\n- Liderar técnicamente al equipo frontend, asegurando calidad de código y mejores prácticas.\n- Diseñar y desarrollar interfaces web responsivas, accesibles y centradas en el usuario.\n- Coordinar con equipos de diseño, backend y project management para alinear funcionalidades y experiencia.\n- Tomar decisiones técnicas y realizar revisiones de código.\n- Promover la innovación mediante la exploración de nuevas tecnologías y tendencias.\n- Mentorar al equipo, potenciando sus habilidades técnicas y creativas.\n- Planificar, priorizar y hacer seguimiento a tareas para cumplimiento de tiempos y objetivos.\n- Aportar ideas creativas que agreguen valor a los proyectos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dominio de HTML5, CSS3 y JavaScript (ES6+).\n- Experiencia con frameworks como React (Next.js) o Vue.js.\n- Manejo de herramientas de build (Webpack, Vite).\n- Experiencia con APIs RESTful y/o GraphQL.\n- Conocimiento de metodologías ágiles.\n- Experiencia en testing (Jest, Cypress).\n- Manejo de CSS frameworks (Tailwind, SASS).\n- Conocimientos en SSR, performance optimization y SEO técnico.\n- Experiencia con CI/CD y contenedores (Docker).\n- Accesibilidad web (WCAG) y herramientas como Lighthouse o PageSpeed.\n- Capacidad para interpretar diseños desde Figma, Adobe XD u otras herramientas.\n- Interés en tecnologías emergentes como soluciones basadas en IA.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo y gestión de equipos.\n- Comunicación clara y efectiva con equipos técnicos y no técnicos.\n- Pensamiento estratégico orientado a resultados.\n- Creatividad aplicada a soluciones digitales.\n- Capacidad para gestionar múltiples proyectos.\n- Habilidad para presentar soluciones técnicas a clientes.\n- Adaptabilidad a entornos dinámicos.\n- Alta inteligencia emocional y trabajo colaborativo."
+      }
+    },
+    "lead-ux-ui": {
+      "slug": "lead-ux-ui",
+      "nombre": "Lead UX UI",
+      "icono": "",
+      "descripcion_corta": "Lidera sistemas de diseño escalables que combinan creatividad, tecnología y automatización para producción de contenido a gran escala.",
+      "contexto_ai": "El Lead de Diseño UX/UI para Automatización Creativa lidera la creación y evolución de sistemas de diseño escalables, combinando creatividad, tecnología y pensamiento estratégico. Es clave en la transformación del contenido digital, pasando de piezas individuales a ecosistemas inteligentes capaces de producir creatividad a gran escala, asegurando un alto nivel de craft en cada entrega.",
+      "skills": {
+        "role": "El Lead de Diseño UX/UI para Automatización Creativa será responsable de liderar la creación y evolución de sistemas de diseño escalables, combinando creatividad, tecnología y pensamiento estratégico. Este rol será clave en la transformación del contenido digital, pasando de piezas individuales a ecosistemas inteligentes capaces de producir creatividad a gran escala, asegurando un alto nivel de craft en cada entrega.\n\n## Responsabilidades\n\n- Liderar la conceptualización y desarrollo de sistemas de diseño enfocados en automatización creativa.\n- Diseñar y supervisar la producción de assets digitales escalables para campañas globales.\n- Garantizar la calidad visual (craft) en entornos de alta velocidad y producción masiva.\n- Colaborar con equipos de tecnología, producción y estrategia para alinear objetivos creativos y técnicos.\n- Dirigir y potenciar al equipo de diseño, promoviendo estándares de calidad y buenas prácticas.\n- Optimizar flujos de trabajo y procesos de diseño mediante automatización.\n- Proponer soluciones innovadoras que integren diseño, datos y tecnología.\n- Velar por la consistencia visual y la correcta implementación de los sistemas de diseño.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dominio avanzado de Adobe Creative Suite (Illustrator, Photoshop; After Effects es un plus).\n- Sólidos fundamentos de diseño: tipografía, color, composición y layout.\n- Experiencia en diseño UX/UI y sistemas de diseño.\n- Conocimiento en creación de assets digitales escalables.\n- Enfoque en automatización de procesos de diseño.\n- Capacidad para trabajar con equipos tecnológicos y entender flujos de producción digital.\n- Interés en la implementación de soluciones basadas en inteligencia artificial.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Visión sólida de dirección de arte y criterio estético.\n- Resolución creativa de problemas.\n- Trabajo colaborativo en equipos multidisciplinarios.\n- Comunicación clara y efectiva.\n- Proactividad y capacidad de gestión.\n- Alta atención al detalle (pixel perfect).\n- Curiosidad intelectual y aprendizaje continuo."
+      }
+    },
+    "project-manager-digital": {
+      "slug": "project-manager-digital",
+      "nombre": "Project Manager Digital",
+      "icono": "",
+      "descripcion_corta": "Planifica y coordina proyectos digitales asegurando tiempos, costos y calidad como puente entre equipos técnicos y creativos.",
+      "contexto_ai": "El Project Manager Digital planifica, coordina y ejecuta proyectos digitales asegurando el cumplimiento de tiempos, costos y estándares de calidad. Actúa como puente entre equipos técnicos y creativos, gestionando recursos, optimizando procesos y garantizando entregas exitosas en entornos dinámicos y multidisciplinarios.",
+      "skills": {
+        "role": "El Project Manager Digital será responsable de planificar, coordinar y ejecutar proyectos digitales asegurando el cumplimiento de tiempos, costos y estándares de calidad. Este rol actúa como un puente entre equipos técnicos y creativos, gestionando recursos, optimizando procesos y garantizando entregas exitosas en entornos dinámicos y multidisciplinarios.\n\n## Responsabilidades\n\n- Planificar, ejecutar y dar seguimiento a proyectos digitales de principio a fin.\n- Gestionar cronogramas, estimaciones de tiempo y cumplimiento de hitos.\n- Coordinar equipos multidisciplinarios (frontend, backend, UX/UI, QA).\n- Administrar backlog, roadmap y prioridades del proyecto.\n- Asegurar una comunicación clara con clientes y stakeholders internos.\n- Identificar riesgos, gestionar bloqueos y proponer soluciones efectivas.\n- Controlar presupuestos, costos y uso eficiente de recursos.\n- Garantizar la calidad de entregables y cumplimiento de objetivos del cliente.\n- Adaptar metodologías de trabajo según necesidades del proyecto.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Conocimiento en desarrollo web (HTML, CSS, JavaScript y frameworks como React, Vue o Angular).\n- Comprensión de tecnologías backend (Node.js, PHP, Python u otras).\n- Manejo de backlog, roadmap y planificación ágil.\n- Uso de herramientas de gestión de proyectos (Jira, Trello, Asana, ClickUp).\n- Gestión de cronogramas (Gantt, sprints, estimaciones).\n- Manejo de presupuestos y control de costos.\n- Deseable: experiencia en e-commerce, sitios web, landings o SaaS.\n- Deseable: conocimiento en UX/UI (interpretación de Figma, Adobe XD).",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo y toma de decisiones.\n- Comunicación clara y efectiva con equipos técnicos y clientes.\n- Organización y priorización de múltiples proyectos.\n- Pensamiento crítico y resolución de problemas.\n- Habilidad de negociación y manejo de expectativas.\n- Adaptabilidad a cambios y aprendizaje continuo.\n- Capacidad para trabajar bajo presión sin perder calidad."
+      }
+    },
+    "project-manager": {
+      "slug": "project-manager",
+      "nombre": "Project Manager",
+      "icono": "",
+      "descripcion_corta": "Coordina proyectos creativos y digitales entre equipos locales y globales, asegurando ejecución impecable y entregas a tiempo.",
+      "contexto_ai": "El Project Manager planifica, coordina y asegura la ejecución exitosa de proyectos creativos y digitales, garantizando entregas a tiempo, con altos estándares de calidad y alineadas a los objetivos del cliente. Es el punto de conexión entre equipos locales y globales (Bogotá y Atlanta), asegurando comunicación clara, procesos eficientes y una ejecución impecable de principio a fin.",
+      "skills": {
+        "role": "El Project Manager será responsable de planificar, coordinar y asegurar la ejecución exitosa de proyectos creativos y digitales, garantizando entregas a tiempo, con altos estándares de calidad y alineadas a los objetivos del cliente. Este rol será el punto de conexión entre equipos locales y globales, asegurando una comunicación clara, procesos eficientes y una ejecución impecable de principio a fin.\n\n## Responsabilidades\n\n- Coordinar equipos multidisciplinarios entre Bogotá y Atlanta.\n- Planificar, actualizar y dar seguimiento a timelines de proyectos desde kickoff hasta entrega.\n- Liderar reuniones diarias y semanales (status, seguimiento y alineación).\n- Asegurar que el equipo creativo cuente con briefs claros, assets, referencias y deadlines definidos.\n- Identificar riesgos, gestionar problemas y proponer soluciones oportunas.\n- Facilitar la comunicación entre cuentas, creatividad, producción y clientes.\n- Garantizar que los entregables cumplan con tiempos, calidad y lineamientos de marca.\n- Gestionar documentación, organización de archivos y control de versiones (incluyendo SharePoint).\n- Coordinar procesos de QA interno para asegurar calidad en cada entrega.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Manejo avanzado de herramientas de gestión como Workfront.\n- Dominio de Microsoft Office.\n- Conocimiento de SharePoint para gestión de archivos.\n- Familiaridad con Adobe Creative Suite (deseable).\n- Experiencia en gestión de proyectos digitales y creativos.\n- Conocimiento de procesos de QA y control de calidad en entregables.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta capacidad de organización y atención al detalle.\n- Comunicación clara, efectiva y empática.\n- Pensamiento crítico y orientación a la solución de problemas.\n- Capacidad de manejar múltiples proyectos bajo presión.\n- Proactividad, autonomía y sentido de ownership.\n- Adaptabilidad a entornos dinámicos y cambiantes.\n- Habilidad para trabajar con equipos diversos y remotos.\n- Interés por tendencias digitales, social media y publicidad."
+      }
+    },
+    "qa-lead": {
+      "slug": "qa-lead",
+      "nombre": "Testing Lead / QA Lead",
+      "icono": "",
+      "descripcion_corta": "Lidera la estrategia de calidad y aseguramiento integrando automatización e IA para optimizar pruebas y entregas.",
+      "contexto_ai": "El QA Lead garantiza la calidad integral de los proyectos digitales, asegurando entregas estables, eficientes y con una experiencia impecable para los usuarios. Lidera la estrategia de aseguramiento de calidad, promoviendo buenas prácticas, automatización y el uso de inteligencia artificial para optimizar procesos y resultados. Requiere visión estratégica y adaptable, capaz de gestionar múltiples tipos de proyectos (sitios web, plataformas, CMS, integraciones y experiencias interactivas) en un entorno dinámico y multidisciplinario.",
+      "skills": {
+        "role": "El QA Lead será responsable de garantizar la calidad integral de los proyectos digitales, asegurando entregas estables, eficientes y con una experiencia impecable para los usuarios. Liderará la estrategia de aseguramiento de calidad, promoviendo buenas prácticas, automatización y el uso de inteligencia artificial para optimizar procesos y resultados.\n\nEste rol requiere una visión estratégica y adaptable, capaz de gestionar múltiples tipos de proyectos (sitios web, plataformas, CMS, integraciones y experiencias interactivas) dentro de un entorno dinámico y multidisciplinario.\n\n## Responsabilidades\n\n- Definir y supervisar la estrategia de QA en todos los proyectos, asegurando la calidad desde etapas tempranas.\n- Establecer procesos de prueba adaptables a distintos ritmos, tecnologías y necesidades de los clientes.\n- Liderar al equipo de QA en la planificación, ejecución y mejora continua.\n- Diseñar e implementar planes de prueba (funcionales, regresivos, de integración, performance, UAT).\n- Integrar automatización y herramientas de IA para optimizar validaciones y reducir tiempos.\n- Colaborar con equipos de desarrollo, UX y Project Management para asegurar criterios claros y medibles.\n- Garantizar trazabilidad de pruebas y visibilidad del estado de QA.\n- Promover una cultura de calidad, comunicación efectiva e innovación en la resolución de problemas.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Conocimiento en metodologías de testing: funcional, regresión, integración, smoke, performance y UAT.\n- Experiencia con frameworks de automatización como Cypress, Playwright, Selenium o similares.\n- Pruebas de API con herramientas como Postman o REST Assured.\n- Conocimiento de entornos CI/CD (GitHub Actions, GitLab CI, Bitbucket, Azure DevOps).\n- Validación en entornos multiplataforma (BrowserStack o similares).\n- Conocimiento básico de control de versiones (Git).\n- Manejo de herramientas de gestión y documentación (Jira, Notion, Confluence, COR u otras).\n- Deseable: experiencia aplicando IA al testing (automatización, generación de pruebas, análisis de defectos).",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo técnico con enfoque colaborativo.\n- Comunicación clara con equipos multidisciplinarios.\n- Pensamiento analítico y capacidad de prevención de errores.\n- Resolución creativa de problemas.\n- Adaptabilidad a entornos dinámicos y múltiples proyectos.\n- Organización, priorización y gestión del tiempo.\n- Curiosidad y aprendizaje continuo."
+      }
+    },
+    "senior-frontend-developer": {
+      "slug": "senior-frontend-developer",
+      "nombre": "Senior Frontend Developer",
+      "icono": "",
+      "descripcion_corta": "Diseña y desarrolla interfaces web de alta calidad, accesibles y performantes, en colaboración con equipos multidisciplinarios.",
+      "contexto_ai": "El Senior Frontend Developer diseña y desarrolla interfaces web de alta calidad, asegurando experiencias de usuario eficientes, accesibles y visualmente atractivas. Combina expertise técnico, pensamiento creativo y colaboración constante con equipos multidisciplinarios para entregar soluciones digitales innovadoras y escalables.",
+      "skills": {
+        "role": "El Senior Frontend Developer será responsable de diseñar y desarrollar interfaces web de alta calidad, asegurando experiencias de usuario eficientes, accesibles y visualmente atractivas. Este rol combina expertise técnico, pensamiento creativo y colaboración constante con equipos multidisciplinarios para entregar soluciones digitales innovadoras y escalables.\n\n## Responsabilidades\n\n- Desarrollar interfaces web modernas, responsivas y centradas en el usuario.\n- Colaborar con equipos de diseño, backend y project management para alinear funcionalidad y experiencia.\n- Garantizar la calidad del código mediante buenas prácticas, estándares y revisiones.\n- Optimizar performance, accesibilidad y SEO técnico en los desarrollos.\n- Investigar e implementar nuevas tecnologías y tendencias frontend.\n- Planificar y priorizar tareas junto al equipo para cumplimiento de objetivos.\n- Proponer soluciones creativas que aporten valor a los proyectos.\n- Compartir conocimiento técnico y apoyar el crecimiento del equipo.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dominio de HTML5, CSS3 y JavaScript (ES6+).\n- Experiencia con frameworks como React (Next.js) o Vue.js.\n- Manejo de herramientas de build (Webpack, Vite).\n- Experiencia con APIs RESTful y/o GraphQL.\n- Conocimiento de metodologías ágiles.\n- Experiencia en testing (Jest, Cypress).\n- Manejo de Tailwind, SASS y SSR.\n- Optimización de performance y uso de herramientas como Lighthouse y PageSpeed.\n- Conocimientos en CI/CD y Docker.\n- Accesibilidad web (WCAG).\n- Capacidad para traducir diseños desde Figma o Adobe XD a código funcional.\n- Interés en la implementación de soluciones basadas en inteligencia artificial.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Comunicación clara y efectiva.\n- Pensamiento creativo aplicado a la resolución de problemas.\n- Capacidad para gestionar múltiples proyectos simultáneamente.\n- Adaptabilidad a entornos dinámicos.\n- Orientación a resultados.\n- Trabajo colaborativo y buena inteligencia emocional."
+      }
+    }
+  }
+}

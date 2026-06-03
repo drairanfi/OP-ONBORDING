@@ -1,0 +1,50 @@
+{
+  "area": "smart-studio",
+  "label": "Smart Studio",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "copywriter": {
+      "slug": "copywriter",
+      "nombre": "Copywriter",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "graphic-designer": {
+      "slug": "graphic-designer",
+      "nombre": "Graphic Designer",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "operations-manager": {
+      "slug": "operations-manager",
+      "nombre": "Operations Manager",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    }
+  }
+}

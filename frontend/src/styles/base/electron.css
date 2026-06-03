@@ -1,0 +1,10 @@
+/* Drag region para ventana frameless en Electron. */
+
+.op-titlebar {
+  -webkit-app-region: drag;
+}
+
+.op-titlebar button,
+.op-titlebar input {
+  -webkit-app-region: no-drag;
+}

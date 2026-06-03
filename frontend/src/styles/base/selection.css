@@ -1,0 +1,6 @@
+/* Selección de texto teñida con op_blue_600. */
+
+::selection {
+  background: rgba(67, 97, 239, 0.35);
+  color: #ffffff;
+}

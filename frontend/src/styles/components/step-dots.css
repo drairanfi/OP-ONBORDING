@@ -1,0 +1,33 @@
+/* Block: step-dots — indicador de paso (dots). */
+
+.step-dots {
+  @apply inline-flex items-center gap-2;
+}
+
+.step-dots__dot {
+  @apply rounded-full transition-all duration-standard ease-op-ui;
+  width: 8px;
+  height: 8px;
+  background: theme("colors.level.6");
+}
+
+.step-dots__dot--done {
+  background: theme("colors.op.500");
+}
+
+.step-dots__dot--active {
+  width: 28px;
+  background: theme("colors.op.600");
+  box-shadow: 0 0 16px rgba(67, 97, 239, 0.5);
+}
+
+.step-dots__dot--pending {
+  background: theme("colors.level.6");
+}
+
+.step-dots__dot--interactive {
+  @apply cursor-pointer;
+  border: 0;
+  padding: 0;
+}
+.step-dots__dot--interactive:hover { background: theme("colors.op.500"); }

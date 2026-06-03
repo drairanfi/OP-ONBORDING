@@ -1,0 +1,18 @@
+/* Block: text-field — input reutilizable. */
+
+.text-field {
+  @apply bg-level-2 border border-level-6 rounded-op-md text-txt-primary;
+  @apply placeholder:text-txt-muted outline-none w-full;
+  @apply transition-all duration-standard ease-op-ui;
+}
+
+.text-field:hover  { @apply border-level-6 bg-level-3; }
+.text-field:focus  {
+  @apply border-op-600 bg-level-3;
+  box-shadow: 0 0 0 3px rgba(67, 97, 239, 0.18);
+}
+
+.text-field--sm { @apply h-9  px-3 text-[12px]; }
+.text-field--md { @apply h-11 px-4 text-sm; }
+.text-field--lg { @apply h-14 px-5 text-base; }
+.text-field--xl { @apply h-[68px] px-7 text-[22px] font-semibold tracking-tight; }

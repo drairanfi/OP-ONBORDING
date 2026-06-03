@@ -1,0 +1,36 @@
+{
+  "area": "people",
+  "label": "People",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "hr-business-partner": {
+      "slug": "hr-business-partner",
+      "nombre": "Human Resources Business Partner",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "talent-matcher": {
+      "slug": "talent-matcher",
+      "nombre": "Talent Matcher",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    }
+  }
+}

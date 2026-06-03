@@ -1,0 +1,10 @@
+/* Block: grid-pattern ─ patrón de cuadrícula con máscara radial opcional. */
+
+.grid-pattern {
+  @apply absolute inset-0 pointer-events-none;
+}
+
+.grid-pattern--masked {
+  mask-image: radial-gradient(ellipse at center, black 30%, transparent 75%);
+  -webkit-mask-image: radial-gradient(ellipse at center, black 30%, transparent 75%);
+}

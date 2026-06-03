@@ -1,0 +1,18 @@
+/* Scrollbar mínimo — colors.md level_6 → txt_disabled on hover. */
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-level-6 rounded;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  @apply bg-txt-disabled;
+}

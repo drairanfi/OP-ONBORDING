@@ -1,0 +1,84 @@
+/* Block: intro — pantalla de ingreso de nombre. */
+
+.intro {
+  @apply relative h-full w-full overflow-hidden;
+}
+
+.intro__bg {
+  @apply absolute inset-0 pointer-events-none overflow-hidden;
+}
+
+.intro__container {
+  @apply relative z-10 h-full max-w-[640px] mx-auto px-8 py-14;
+  @apply flex flex-col justify-center;
+}
+
+/* Step indicator (top) */
+.intro__steps {
+  @apply flex items-center gap-4 mb-8;
+}
+.intro__steps-label {
+  @apply text-[10px] font-bold tracking-[2.5px] uppercase text-txt-muted;
+}
+
+/* Marca */
+.intro__brand { @apply mb-10; }
+
+/* Título */
+.intro__title {
+  @apply text-[56px] leading-[1.05] font-bold mb-5 tracking-tight;
+  background-image: linear-gradient(135deg, #FFFFFF 0%, #DCE3FD 45%, #97B1F9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.intro__title-em {
+  background-image: linear-gradient(135deg, #6689F4 0%, #4361EF 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* Lead */
+.intro__lead {
+  @apply text-[17px] leading-[28px] text-txt-tertiary max-w-lg mb-10;
+}
+
+/* Form */
+.intro__form { @apply flex flex-col gap-5; }
+
+.intro__field-label {
+  @apply text-[10px] font-bold tracking-[2.5px] uppercase text-op-400 mb-1;
+}
+
+/* Preview "Hola, Nombre" */
+.intro__preview {
+  @apply flex items-center gap-2 px-5 py-3 rounded-op-md;
+  @apply text-sm text-txt-tertiary;
+  background: rgba(67, 97, 239, 0.08);
+  border: 1px solid rgba(67, 97, 239, 0.20);
+}
+
+.intro__preview-emoji { @apply text-base; }
+
+.intro__preview-name {
+  @apply font-bold text-txt-primary;
+  background-image: linear-gradient(135deg, #FFFFFF 0%, #97B1F9 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+/* CTA row */
+.intro__actions {
+  @apply flex items-center gap-5 mt-3;
+}
+
+.intro__cta {
+  @apply gap-3;
+}
+
+.intro__hint {
+  @apply text-[11px] font-medium text-txt-muted;
+}

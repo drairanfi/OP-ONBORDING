@@ -1,0 +1,58 @@
+/* Block: chat ─ panel de chat libre con burbujas. */
+
+.chat            { @apply flex flex-col h-full; }
+.chat__messages  { @apply flex-1 overflow-y-auto py-4 flex flex-col gap-3; }
+
+.chat__input-row { @apply border-t border-level-6 pt-3.5 flex gap-2.5; }
+
+.chat__input {
+  @apply flex-1 h-11 px-4 bg-level-3 border border-level-6 rounded-op-md;
+  @apply text-txt-primary text-sm placeholder:text-txt-muted outline-none;
+  @apply transition-colors duration-standard ease-op-ui;
+}
+.chat__input:focus { @apply border-op-600; }
+
+.chat__send {
+  @apply w-11 h-11 rounded-op-md flex items-center justify-center text-lg;
+  @apply transition-all duration-fast ease-op-ui active:scale-[0.94];
+}
+.chat__send--enabled  { @apply bg-op-600 text-white hover:bg-op-700; }
+.chat__send--disabled { @apply bg-level-5 text-txt-disabled cursor-not-allowed; }
+
+/* ── Block: chat-bubble ── */
+.chat-bubble              { @apply flex animate-fadeInUp; }
+.chat-bubble--user        { @apply justify-end; }
+.chat-bubble--assistant   { @apply justify-start; }
+
+.chat-bubble__avatar {
+  @apply w-[26px] h-[26px] rounded-op-sm flex-shrink-0 mr-2 mt-0.5;
+  @apply flex items-center justify-center text-op-500 text-xs;
+  background: rgba(67, 97, 239, 0.15);
+}
+
+.chat-bubble__body          { @apply max-w-[75%] py-2.5 px-3.5; }
+.chat-bubble__body--user    {
+  @apply bg-op-600 text-white;
+  border-radius: 14px 14px 4px 14px;
+}
+.chat-bubble__body--assistant {
+  @apply bg-level-3 border border-level-6 text-txt-secondary;
+  border-radius: 14px 14px 14px 4px;
+}
+
+/* ── Block: typing ─ indicador "escribiendo…" ── */
+.typing            { @apply flex items-center gap-2 animate-fadeInUp; }
+
+.typing__avatar {
+  @apply w-[26px] h-[26px] rounded-op-sm flex items-center justify-center text-op-500 text-xs;
+  background: rgba(67, 97, 239, 0.15);
+}
+
+.typing__bubble {
+  @apply flex gap-1 py-3 px-3.5 bg-level-3 border border-level-6;
+  border-radius: 14px 14px 14px 4px;
+}
+
+.typing__dot {
+  @apply w-1.5 h-1.5 rounded-full bg-op-500 animate-bounce3;
+}

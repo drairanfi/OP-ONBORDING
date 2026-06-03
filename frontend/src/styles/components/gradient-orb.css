@@ -1,0 +1,6 @@
+/* Block: orb ─ mancha luminosa difuminada para fondos atmosféricos.
+   Tamaño/color/blur se inyectan vía style inline desde el componente. */
+
+.orb {
+  @apply absolute rounded-full pointer-events-none;
+}

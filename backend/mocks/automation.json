@@ -1,0 +1,36 @@
+{
+  "area": "automation",
+  "label": "Automation",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "creative-engineer": {
+      "slug": "creative-engineer",
+      "nombre": "Creative Engineer",
+      "icono": "",
+      "descripcion_corta": "Diseña piezas visuales escalables para campañas globales combinando diseño, tecnología y automatización.",
+      "contexto_ai": "Como Diseñador/a Digital enfocado/a en automatización, su misión es crear piezas visuales escalables y de alto impacto para campañas globales, combinando diseño, tecnología y eficiencia. Es clave en la construcción de sistemas creativos que optimicen la producción de contenido, asegurando un craft impecable en cada entrega.",
+      "skills": {
+        "role": "Como Diseñador/a Digital enfocado/a en automatización, tu misión será crear piezas visuales escalables y de alto impacto para campañas globales, combinando diseño, tecnología y eficiencia. Serás clave en la construcción de sistemas creativos que optimicen la producción de contenido, asegurando un craft impecable en cada entrega.\n\n## Responsabilidades\n\n- Diseñar y producir piezas digitales para campañas globales (display, social, video, etc.).\n- Utilizar Figma como herramienta principal para crear interfaces, layouts y componentes reutilizables.\n- Contribuir a la construcción y evolución de sistemas de diseño y librerías escalables.\n- Adaptar creatividades a múltiples formatos y plataformas.\n- Colaborar con equipos creativos, de producción y tecnología.\n- Garantizar calidad visual (pixel perfect) en todos los entregables.\n- Optimizar procesos mediante automatización y buenas prácticas de producción.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dominio de Figma (componentes, layouts; deseable experiencia en Design Systems).\n- Manejo de Adobe Creative Suite (Illustrator, Photoshop; After Effects es un plus).\n- Conocimiento en diseño UI/UX y diseño visual.\n- Sólidos fundamentos en tipografía, color, composición y jerarquía visual.\n- Experiencia en creación de activos digitales escalables.\n- Interés o experiencia en automatización de producción de contenido.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta atención al detalle (pixel perfect).\n- Pensamiento estructurado y sensibilidad por la diagramación.\n- Capacidad de trabajo en equipo y comunicación efectiva.\n- Proactividad y buena gestión del tiempo.\n- Mentalidad de aprendizaje continuo.\n- Curiosidad por tecnología, diseño y tendencias digitales."
+      }
+    },
+    "graphic-designer-motion": {
+      "slug": "graphic-designer-motion",
+      "nombre": "Graphic Designer (Motion)",
+      "icono": "",
+      "descripcion_corta": "Crea motion graphics y anuncios de video optimizados para producción masiva en campañas digitales.",
+      "contexto_ai": "Diseñador gráfico enfocado en motion graphics dentro del equipo de producción de anuncios digitales. Su misión es desarrollar anuncios dinámicos y efectivos que capten la atención y cuenten historias en segundos, combinando creatividad, motion graphics y optimización de producción.",
+      "skills": {
+        "role": "Como Diseñador Gráfico enfocado/a en motion graphics, formas parte del equipo de producción de anuncios digitales. Tu misión será desarrollar anuncios dinámicos y efectivos que no solo capten la atención, sino que también cuenten historias en cuestión de segundos.\n\n## Responsabilidades\n\n- Crear y animar piezas de motion graphics para campañas digitales.\n- Desarrollar anuncios de video optimizados para producción masiva.\n- Aplicar principios de diseño en piezas tanto estáticas como en movimiento.\n- Colaborar con equipos de producción, creatividad y marketing.\n- Asegurar la calidad visual y técnica de cada entrega.\n- Optimizar procesos de producción mediante automatización.\n- Adaptar contenidos a diferentes formatos y plataformas digitales.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dominio de Adobe Creative Suite (After Effects, Illustrator, Photoshop).\n- Conocimiento en Premiere Pro (deseable).\n- Experiencia avanzada en motion graphics.\n- Sólidos fundamentos en diseño (tipografía, color, composición, layout).\n- Enfoque en optimización y automatización de producción.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta atención al detalle.\n- Capacidad de resolución de problemas.\n- Trabajo en equipo y comunicación efectiva.\n- Gestión del tiempo y manejo de múltiples proyectos.\n- Curiosidad y aprendizaje continuo en tendencias digitales."
+      }
+    }
+  }
+}

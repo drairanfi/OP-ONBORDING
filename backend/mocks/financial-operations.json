@@ -1,0 +1,36 @@
+{
+  "area": "financial-operations",
+  "label": "Financial and Operations",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "procurement-analyst": {
+      "slug": "procurement-analyst",
+      "nombre": "Procurement Analyst",
+      "icono": "",
+      "descripcion_corta": "Gestiona compras, pagos y control financiero como enlace entre equipos internos y proveedores.",
+      "contexto_ai": "El Procurement Analyst gestiona y asegura la correcta ejecución de los procesos de compras, pagos y control financiero, actuando como enlace entre los equipos internos y los proveedores. Es clave para garantizar eficiencia, cumplimiento normativo y precisión en la gestión administrativa y financiera.",
+      "skills": {
+        "role": "El Procurement Analyst será responsable de gestionar y asegurar la correcta ejecución de los procesos de compras, pagos y control financiero, actuando como enlace entre los equipos internos y los proveedores. Este rol es clave para garantizar eficiencia, cumplimiento normativo y precisión en la gestión administrativa y financiera.\n\n## Responsabilidades\n\n- Programar pagos a proveedores según cronogramas establecidos.\n- Administrar caja menor y gestionar la legalización de compras.\n- Controlar anticipos y realizar seguimiento a su correcta legalización.\n- Gestionar PQRS con proveedores, asegurando una comunicación efectiva.\n- Crear y hacer seguimiento a proveedores dentro del sistema.\n- Validar la correcta facturación y aplicación de retenciones.\n- Acompañar y dar soporte a todo el flujo de órdenes de compra.\n- Asegurar el cumplimiento de procesos financieros y administrativos.\n- Mantener el orden y control documental de las operaciones.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Conocimiento en procesos de compras y gestión de proveedores.\n- Manejo de cuentas por pagar y programación de pagos.\n- Conocimiento en normativas fiscales y retenciones.\n- Control y manejo de caja menor y anticipos.\n- Gestión de órdenes de compra.\n- Manejo de herramientas administrativas y sistemas financieros.\n- Control y organización documental.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta organización y atención al detalle.\n- Comunicación clara y efectiva.\n- Orientación al servicio (cliente interno y proveedores).\n- Capacidad de seguimiento y control.\n- Resolución de problemas.\n- Proactividad y responsabilidad.\n- Trabajo en equipo."
+      }
+    },
+    "procurement-manager": {
+      "slug": "procurement-manager",
+      "nombre": "Procurement Manager",
+      "icono": "",
+      "descripcion_corta": "Lidera la estrategia y ejecución del área de compras, garantizando eficiencia, control financiero y generación de valor.",
+      "contexto_ai": "El Procurement Manager lidera la estrategia y ejecución del área de compras, garantizando eficiencia, control financiero y generación de valor para la organización. Combina liderazgo de equipos, negociación estratégica y optimización de procesos, asegurando una gestión sólida de proveedores y una correcta ejecución de costos en proyectos creativos y operativos.",
+      "skills": {
+        "role": "El Procurement Manager será responsable de liderar la estrategia y ejecución del área de compras, garantizando eficiencia, control financiero y generación de valor para la organización. Este rol combina liderazgo de equipos, negociación estratégica y optimización de procesos, asegurando una gestión sólida de proveedores y una correcta ejecución de costos en proyectos creativos y operativos.\n\n## Responsabilidades\n\n- Liderar y desarrollar el equipo de compras, asegurando una ejecución ágil y alineada a los objetivos del negocio.\n- Negociar con proveedores para obtener las mejores condiciones comerciales y generación de revenue.\n- Supervisar y optimizar procesos de compras, pagos y control de costos.\n- Identificar oportunidades de mejora en procesos internos y operativos.\n- Construir y fortalecer la red de proveedores estratégicos (BTL, producción audiovisual, mecánica, entre otros).\n- Asegurar la conexión efectiva entre compras, finanzas, administración y equipos creativos.\n- Diseñar e implementar procesos que mejoren la trazabilidad y control de costos.\n- Garantizar el cumplimiento de políticas, tiempos y estándares financieros.\n- Acompañar la ejecución de proyectos asegurando eficiencia y sostenibilidad económica.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Negociación estratégica con proveedores.\n- Control financiero y gestión de costos.\n- Gestión de procesos de procurement y cadena de suministro.\n- Manejo de presupuestos y optimización de recursos.\n- Conocimiento del mercado de proveedores (audiovisual, impresión, BTL, eventos).\n- Diseño e implementación de procesos operativos.\n- Análisis de costos y rentabilidad.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo de equipos en entornos dinámicos.\n- Comunicación efectiva y relacionamiento inter-áreas.\n- Pensamiento analítico y estratégico.\n- Orientación a resultados y eficiencia.\n- Capacidad de negociación y toma de decisiones.\n- Adaptabilidad y proactividad.\n- Organización y enfoque en mejora continua."
+      }
+    }
+  }
+}

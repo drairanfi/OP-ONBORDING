@@ -1,0 +1,39 @@
+/* Block: btn ─ botón base con variantes y tamaños. */
+
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-op-md;
+  @apply transition-colors duration-fast ease-op-ui;
+  @apply active:scale-[0.98];
+}
+
+/* Tamaños */
+.btn--sm { @apply h-9  px-3 text-[12px] font-medium; }
+.btn--md { @apply h-11 px-5 text-[14px] font-medium; }
+.btn--lg { @apply h-12 px-6 text-[15px] font-bold; }
+
+/* Variante: primary */
+.btn--primary {
+  @apply bg-op-600 text-white hover:bg-op-700 active:bg-op-900;
+}
+.btn--primary:disabled,
+.btn--primary.is-disabled {
+  @apply bg-level-5 text-txt-disabled cursor-not-allowed;
+}
+
+/* Variante: secondary */
+.btn--secondary {
+  @apply bg-level-3 hover:bg-level-4 text-txt-secondary border border-level-6;
+}
+.btn--secondary:disabled,
+.btn--secondary.is-disabled {
+  @apply bg-level-5 text-txt-disabled cursor-not-allowed border-level-6;
+}
+
+/* Variante: ghost */
+.btn--ghost {
+  @apply text-txt-muted hover:text-txt-primary hover:bg-level-3;
+}
+.btn--ghost:disabled,
+.btn--ghost.is-disabled {
+  @apply text-txt-disabled cursor-not-allowed;
+}

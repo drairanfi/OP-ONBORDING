@@ -1,0 +1,79 @@
+/* Block: splash ─ pantalla de bienvenida Omnicom Production LATAM. */
+
+.splash {
+  @apply fixed inset-0 bg-level-0 overflow-hidden flex items-center justify-center;
+}
+
+.splash__stage {
+  @apply relative z-10 text-center max-w-[560px] px-6;
+}
+
+/* — Marca corporativa — */
+.splash__brand {
+  @apply flex justify-center mb-10;
+}
+
+/* — Logo + anillos — */
+.splash__logo-wrap {
+  @apply mb-12;
+}
+
+.splash__logo {
+  @apply w-[88px] h-[88px] rounded-op-2xl;
+  @apply flex items-center justify-center text-white text-4xl font-bold;
+  background: linear-gradient(135deg, #2C40E4 0%, #4361EF 50%, #6689F4 100%);
+  box-shadow:
+    0 0 60px rgba(67, 97, 239, 0.55),
+    inset 0 1px 0 rgba(255, 255, 255, 0.15);
+}
+
+/* — Tipografía — */
+.splash__eyebrow {
+  @apply text-sm uppercase tracking-[5px] font-semibold text-op-500 mb-4;
+}
+
+.splash__heading {
+  @apply text-[56px] leading-[1.05] font-bold mb-5;
+  background-image: linear-gradient(135deg, #FFFFFF 0%, #C1CFFC 50%, #6689F4 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.splash__subhead {
+  @apply text-[17px] leading-[26px] text-txt-tertiary max-w-md mx-auto mb-2;
+}
+
+.splash__subhead-em {
+  @apply text-txt-primary font-medium;
+}
+
+.splash__tagline {
+  @apply text-sm text-txt-muted max-w-sm mx-auto;
+}
+
+/* — Loader — */
+.splash__loader {
+  @apply mt-14 flex flex-col items-center gap-4;
+}
+
+.splash__loader-divider {
+  @apply block w-16 h-px;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(67, 97, 239, 0.6),
+    transparent
+  );
+}
+
+.splash__loader-label {
+  @apply text-[10px] uppercase tracking-[3px] text-txt-disabled;
+}
+
+/* — Footer corner — */
+.splash__footer {
+  @apply absolute bottom-6 left-0 right-0 z-10 px-8;
+  @apply flex items-center justify-between;
+  @apply text-[10px] uppercase tracking-[2.5px] text-txt-disabled;
+}

@@ -1,0 +1,36 @@
+{
+  "area": "service",
+  "label": "Service",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "clients-lead": {
+      "slug": "clients-lead",
+      "nombre": "Clients Lead",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "service-lead": {
+      "slug": "service-lead",
+      "nombre": "Service Lead",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    }
+  }
+}

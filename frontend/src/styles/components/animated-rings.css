@@ -1,0 +1,13 @@
+/* Block: rings ─ anillos concéntricos pulsantes alrededor del núcleo. */
+
+.rings {
+  @apply relative inline-flex items-center justify-center;
+}
+
+.rings__ring {
+  @apply absolute rounded-full border;
+}
+
+.rings__core {
+  @apply relative z-10;
+}

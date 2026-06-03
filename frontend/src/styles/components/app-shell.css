@@ -1,0 +1,9 @@
+/* Block: app-shell ─ contenedor raíz que envuelve a toda la app. */
+
+.app-shell {
+  @apply h-screen w-screen bg-level-1 flex flex-col relative;
+}
+
+.app-shell__main {
+  @apply flex-1 overflow-hidden relative z-10;
+}

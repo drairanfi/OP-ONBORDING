@@ -1,0 +1,60 @@
+/* Block: feedback ─ modal de reseña final (calificación + sugerencias). */
+
+.feedback__overlay {
+  @apply fixed inset-0 z-50 flex items-center justify-center p-6;
+  background: rgba(0, 0, 0, 0.66);
+  backdrop-filter: blur(6px);
+}
+
+.feedback__card {
+  @apply relative w-full max-w-md bg-level-2 border border-level-6 rounded-op-xl;
+  @apply p-7 shadow-op-card;
+}
+
+.feedback__close {
+  @apply absolute top-4 right-4 w-8 h-8 rounded-op-sm flex items-center justify-center;
+  @apply text-txt-muted bg-level-3 border border-level-6;
+  @apply transition-colors duration-fast ease-op-ui hover:text-txt-primary hover:border-op-600;
+}
+
+/* ── Head ── */
+.feedback__eyebrow {
+  @apply inline-flex items-center gap-1.5 text-op-400 text-xs font-semibold uppercase tracking-wide;
+}
+.feedback__title { @apply text-txt-primary text-xl font-bold mt-2.5; }
+.feedback__lead  { @apply text-txt-muted text-sm mt-1.5 leading-relaxed; }
+
+/* ── Estrellas ── */
+.feedback__stars { @apply flex justify-center gap-2 mt-6; }
+
+.feedback__star {
+  @apply w-9 h-9 text-level-6;
+  @apply transition-all duration-fast ease-op-ui hover:scale-110 active:scale-95;
+}
+.feedback__star.is-active { @apply text-op-500; }
+
+.feedback__hint {
+  @apply text-center text-txt-tertiary text-xs mt-2.5 h-4;
+}
+
+/* ── Textarea ── */
+.feedback__textarea {
+  @apply w-full mt-5 p-3.5 bg-level-3 border border-level-6 rounded-op-md;
+  @apply text-txt-primary text-sm placeholder:text-txt-muted outline-none resize-none;
+  @apply transition-colors duration-standard ease-op-ui;
+}
+.feedback__textarea:focus { @apply border-op-600; }
+
+.feedback__error { @apply text-red-400 text-xs mt-2.5; }
+
+/* ── Acciones ── */
+.feedback__actions { @apply flex justify-end gap-2.5 mt-6; }
+
+/* ── Estado de agradecimiento ── */
+.feedback__thanks { @apply flex flex-col items-center text-center py-4; }
+
+.feedback__thanks-icon {
+  @apply w-16 h-16 rounded-full flex items-center justify-center text-op-500 mb-4;
+  background: rgba(67, 97, 239, 0.15);
+}
+.feedback__thanks .feedback__lead { @apply mb-6; }

@@ -1,0 +1,78 @@
+{
+  "area": "produccion-audiovisual",
+  "label": "Producción Audiovisual",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "motion-graphics": {
+      "slug": "motion-graphics",
+      "nombre": "Motion Graphics",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "post-producer-manager": {
+      "slug": "post-producer-manager",
+      "nombre": "Post Producer Manager",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "productor-ejecutivo": {
+      "slug": "productor-ejecutivo",
+      "nombre": "Productor Ejecutivo - Production Manager",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "senior-post-producer": {
+      "slug": "senior-post-producer",
+      "nombre": "Senior Post Producer",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    },
+    "video-editor": {
+      "slug": "video-editor",
+      "nombre": "Video Editor",
+      "icono": "",
+      "descripcion_corta": "",
+      "contexto_ai": "",
+      "skills": {
+        "role": "",
+        "team": "",
+        "workflow": "",
+        "tools": "",
+        "tips": ""
+      }
+    }
+  }
+}

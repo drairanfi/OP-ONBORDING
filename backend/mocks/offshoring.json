@@ -1,0 +1,484 @@
+{
+  "area": "offshoring",
+  "label": "Offshoring",
+  "icono": "",
+  "descripcion": "",
+  "roles": {
+    "asset-manager": {
+      "slug": "asset-manager",
+      "nombre": "Asset Manager",
+      "icono": "",
+      "descripcion_corta": "Gestiona la recopilación, validación y entrega de activos creativos en plataformas DAM, asegurando calidad y disponibilidad.",
+      "contexto_ai": "El Asset Manager / Asset Coordinator gestiona los procesos de manejo de activos de producción y localización, asegurando la correcta recopilación, validación y entrega de materiales creativos en los tiempos establecidos. Este rol es clave para garantizar la calidad, organización y disponibilidad de assets en plataformas DAM, facilitando la eficiencia operativa y la velocidad de entrega al mercado.",
+      "skills": {
+        "role": "El Asset Manager / Asset Coordinator será responsable de gestionar los procesos de manejo de activos de producción y localización, asegurando la correcta recopilación, validación y entrega de materiales creativos en los tiempos establecidos. Este rol es clave para garantizar la calidad, organización y disponibilidad de assets en plataformas DAM, facilitando la eficiencia operativa y la velocidad de entrega al mercado.\n\n## Responsabilidades\n\n- Ejecutar procesos de producción y localización para asegurar la correcta carga y entrega de activos (video, audio, estáticos, banners, etc.).\n- Gestionar procesos de control de calidad (QC/QA) de los materiales creativos.\n- Subir assets finales aprobados a plataformas DAM del cliente.\n- Gestionar masters, toolkits de localización y versiones adaptadas.\n- Asegurar la correcta carga y control de metadata requerida.\n- Comunicar el estado de los proyectos a stakeholders relevantes.\n- Colaborar con equipos de account management, creatividad, producción y medios.\n- Identificar riesgos, problemas o retrasos y escalarlos oportunamente.\n- Mantener organizada la documentación y archivos del proyecto.\n- Garantizar la consistencia y eficiencia en los flujos de trabajo de gestión de assets.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Manejo de plataformas DAM (Digital Asset Management).\n- Control de calidad de contenidos (QC/QA).\n- Gestión de metadata.\n- Uso de herramientas de gestión de proyectos.\n- Organización de archivos y documentación digital.\n- Conocimiento básico de formatos de producción multimedia.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta organización y gestión del tiempo.\n- Comunicación efectiva e interpersonal.\n- Atención al detalle.\n- Capacidad de manejar múltiples tareas simultáneamente.\n- Resolución de problemas.\n- Trabajo colaborativo en entornos dinámicos.\n- Adaptabilidad a cambios y presión de tiempos."
+      }
+    },
+    "booking-coordinator": {
+      "slug": "booking-coordinator",
+      "nombre": "Booking Coordinator",
+      "icono": "",
+      "descripcion_corta": "Coordina la asignación de talento freelance, onboarding y bases de datos para asegurar eficiencia operativa y experiencia fluida.",
+      "contexto_ai": "El Resource Booking Coordinator apoya la gestión y coordinación de talento freelance, asegurando la correcta asignación de recursos, el seguimiento de procesos de onboarding y el mantenimiento de información actualizada. Es clave para garantizar eficiencia operativa y una experiencia fluida tanto para freelancers como para equipos internos, en un entorno dinámico y en crecimiento.",
+      "skills": {
+        "role": "El Resource Booking Coordinator será responsable de apoyar la gestión y coordinación de talento freelance, asegurando la correcta asignación de recursos, el seguimiento de procesos de onboarding y el mantenimiento de información actualizada. Este rol es clave para garantizar eficiencia operativa y una experiencia fluida tanto para freelancers como para equipos internos, en un entorno dinámico y en crecimiento.\n\n## Responsabilidades\n\n- Actuar como punto de contacto para freelancers nuevos y existentes durante su proceso de incorporación.\n- Gestionar, validar y archivar la documentación de onboarding.\n- Hacer seguimiento al estado de incorporación y reportar avances al equipo de Recursos.\n- Colaborar con Recursos Humanos en procesos de onboarding y offboarding.\n- Apoyar la resolución de incidencias relacionadas con nómina y tecnología.\n- Monitorear solicitudes de reserva de freelancers en herramientas como Jira.\n- Coordinar con stakeholders para asegurar la correcta gestión de las solicitudes.\n- Mantener actualizado el calendario de reservas en herramientas internas (OmniPro).\n- Comunicarse con freelancers sobre disponibilidad y asignaciones.\n- Escalar problemas de disponibilidad al equipo de producción cuando sea necesario.\n- Actualizar bases de datos relacionadas con nómina, control de tiempo y seguimiento de recursos.\n- Asegurar la calidad y consistencia de la información en los sistemas.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Manejo de herramientas de gestión como Jira.\n- Gestión de bases de datos y sistemas administrativos.\n- Conocimiento en procesos de onboarding y offboarding.\n- Manejo de herramientas de Office 365.\n- Control y seguimiento de procesos operativos.\n- Actualización y gestión de información de nómina y tiempos.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Comunicación clara y efectiva.\n- Alta organización y atención al detalle.\n- Capacidad analítica y de resolución de problemas.\n- Gestión del tiempo y priorización.\n- Adaptabilidad a cambios y entornos dinámicos.\n- Trabajo en equipo y actitud colaborativa.\n- Proactividad, confiabilidad y actitud positiva."
+      }
+    },
+    "business-affairs-associate": {
+      "slug": "business-affairs-associate",
+      "nombre": "Business Affairs Associate",
+      "icono": "",
+      "descripcion_corta": "Apoya la gestión administrativa y financiera de proyectos, gestionando órdenes de compra, facturación y proveedores.",
+      "contexto_ai": "El Business Affairs Associate apoya la gestión administrativa y financiera de proyectos, garantizando el correcto manejo de órdenes de compra, facturación y coordinación con proveedores. Es clave para asegurar el control financiero, la organización de procesos y la comunicación efectiva con equipos internos y clientes internacionales.",
+      "skills": {
+        "role": "El Business Affairs Associate será responsable de apoyar la gestión administrativa y financiera de proyectos, garantizando el correcto manejo de órdenes de compra, facturación y coordinación con proveedores. Este rol es clave para asegurar el control financiero, la organización de procesos y la comunicación efectiva con equipos internos y clientes internacionales.\n\n## Responsabilidades\n\n- Crear y gestionar órdenes de compra (POs).\n- Coordinar y dar seguimiento a pagos de proveedores.\n- Elaborar y controlar estimados financieros.\n- Mantener comunicación clara con proveedores y clientes internos.\n- Asegurar la correcta documentación de procesos administrativos y financieros.\n- Apoyar el control y seguimiento de presupuestos.\n- Garantizar la correcta ejecución de procesos financieros operativos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Manejo de órdenes de compra (POs).\n- Procesos de facturación.\n- Gestión de proveedores.\n- Control y seguimiento de estimados financieros.\n- Manejo de herramientas administrativas y financieras.\n- Organización y control de documentación.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Comunicación asertiva.\n- Gestión del tiempo y organización.\n- Orientación al detalle.\n- Proactividad.\n- Resolución de problemas.\n- Servicio al cliente interno y externo."
+      }
+    },
+    "business-affairs-specialist": {
+      "slug": "business-affairs-specialist",
+      "nombre": "Business Affairs Specialist",
+      "icono": "",
+      "descripcion_corta": "Alinea aspectos legales, financieros y operativos de producciones, garantizando contratos, derechos y cumplimiento.",
+      "contexto_ai": "El Business Affairs Specialist gestiona y alinea los aspectos legales, financieros y operativos de las producciones, asegurando el cumplimiento de estándares, derechos y acuerdos contractuales. Actúa como puente entre equipos creativos, legales y financieros, garantizando una ejecución fluida de campañas globales en múltiples formatos y plataformas.",
+      "skills": {
+        "role": "El Business Affairs Specialist será responsable de gestionar y alinear los aspectos legales, financieros y operativos de las producciones, asegurando el cumplimiento de estándares, derechos y acuerdos contractuales. Este rol actúa como puente entre equipos creativos, legales y financieros, garantizando una ejecución fluida de campañas globales en múltiples formatos y plataformas.\n\n## Responsabilidades\n\n- Revisar briefs creativos y evaluar viabilidad de producción, riesgos y cumplimiento legal.\n- Coordinar con equipos legales para identificar requerimientos y posibles riesgos desde etapas tempranas.\n- Estimar costos relacionados con talento, derechos y business affairs.\n- Colaborar con el equipo financiero en procesos de pre-billing antes de iniciar producción.\n- Gestionar acuerdos de confidencialidad (NDA) y protección de materiales.\n- Revisar especificaciones de bids asegurando cumplimiento de estándares.\n- Coordinar procesos de licitación con equipos internos y stakeholders.\n- Elaborar presupuestos formales de producción y emitir órdenes de compra.\n- Preparar y ejecutar acuerdos contractuales con productoras.\n- Coordinar con el equipo de talento requisitos contractuales y de derechos.\n- Gestionar seguros de producción con brokers.\n- Participar en reuniones de preproducción para asegurar alineación legal y financiera.\n- Supervisar costos durante producción y comunicar desviaciones.\n- Coordinar con legal la revisión de piezas para asegurar derechos y licencias.\n- Gestionar derechos de terceros (música, talento, contenido, imágenes, etc.) y sus renovaciones.\n- Preparar reportes de cierre de proyectos con información completa de producción.\n- Conciliar financieramente los proyectos y asegurar pago a proveedores.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de contratos y negociación legal.\n- Manejo de derechos de terceros y licenciamiento.\n- Presupuestación y control financiero de producción.\n- Conocimiento en flujos de producción audiovisual.\n- Coordinación de procesos legales y administrativos.\n- Manejo de seguros y cumplimiento regulatorio.\n- Análisis de costos y gestión de proveedores.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Comunicación efectiva y capacidad de negociación.\n- Pensamiento analítico y resolución de problemas.\n- Proactividad y autonomía.\n- Organización y atención al detalle.\n- Capacidad de anticiparse a riesgos.\n- Trabajo colaborativo con equipos multidisciplinarios.\n- Adaptabilidad a entornos dinámicos."
+      }
+    },
+    "content-delivery-associate": {
+      "slug": "content-delivery-associate",
+      "nombre": "Content Delivery Associate",
+      "icono": "",
+      "descripcion_corta": "Apoya la entrega end-to-end de campañas globales 360°, validando y distribuyendo assets en múltiples plataformas.",
+      "contexto_ai": "El Content Delivery Associate apoya la ejecución end-to-end en la entrega de campañas globales 360°, asegurando la correcta gestión, validación y distribución de assets creativos en múltiples plataformas. Es un socio operativo clave que garantiza que los entregables cumplan con las especificaciones, tiempos y estándares de calidad requeridos.",
+      "skills": {
+        "role": "El Content Delivery Associate será responsable de apoyar la ejecución end-to-end en la entrega de campañas globales 360°, asegurando la correcta gestión, validación y distribución de assets creativos en múltiples plataformas. Este rol actúa como un socio operativo clave, garantizando que los entregables cumplan con las especificaciones, tiempos y estándares de calidad requeridos.\n\n## Responsabilidades\n\n- Apoyar la ejecución de flujos de trabajo de delivery asegurando cumplimiento de tiempos.\n- Traducir especificaciones de producción y plataformas en listas claras de entregables.\n- Coordinar y dar seguimiento a procesos de pre-clearance y clearance final.\n- Asignar y validar CIDs y taxonomía creativa, asegurando metadata correcta.\n- Preparar paquetes finales de entrega con assets, nomenclaturas y especificaciones.\n- Coordinar con equipos de producción, postproducción y proveedores la entrega de materiales.\n- Realizar control de calidad (QC) de assets y links de entrega.\n- Identificar errores, coordinar correcciones y actualizar trackers.\n- Mantener actualizada la documentación, trackers y reportes de estado.\n- Preparar instrucciones de tráfico y distribución alineadas con planes de medios.\n- Coordinar órdenes de distribución hacia plataformas o medios (manual o sistemas como Prisma/STraffic).\n- Validar pruebas de entrega (PODs) y reportar uso de contenidos al equipo de talento.\n- Crear jobs, estimados y órdenes de compra para proveedores.\n- Apoyar el procesamiento de pagos a proveedores.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Conocimiento de procesos de delivery y distribución de contenido.\n- Manejo de trackers, documentación y control operativo.\n- Conocimiento en QC de materiales creativos.\n- Interpretación de especificaciones de medios y plataformas.\n- Manejo de herramientas de gestión y sistemas de tráfico (Prisma, STraffic, DDS u otros).\n- Gestión de metadata y taxonomía de contenido.\n- Conocimiento de procesos de producción y postproducción.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta organización y gestión del tiempo.\n- Atención al detalle y orientación a calidad.\n- Capacidad para manejar múltiples tareas simultáneamente.\n- Comunicación efectiva y trabajo colaborativo.\n- Pensamiento analítico y resolución de problemas.\n- Proactividad y sentido de ownership.\n- Adaptabilidad a entornos dinámicos y de alta demanda.\n- Capacidad para trabajar bajo presión manteniendo precisión."
+      }
+    },
+    "content-delivery-manager": {
+      "slug": "content-delivery-manager",
+      "nombre": "Content Delivery Manager",
+      "icono": "",
+      "descripcion_corta": "Lidera la planificación y ejecución end-to-end del proceso de entrega de contenido en múltiples canales y plataformas.",
+      "contexto_ai": "El Content Delivery Manager lidera la planificación y ejecución end-to-end del proceso de entrega de contenido, asegurando que todos los assets creativos sean producidos, validados y distribuidos correctamente a través de múltiples canales. Garantiza calidad, cumplimiento de especificaciones y eficiencia operativa, colaborando con equipos globales para asegurar el éxito de campañas complejas.",
+      "skills": {
+        "role": "El Content Delivery Manager será responsable de liderar la planificación y ejecución end-to-end del proceso de entrega de contenido, asegurando que todos los assets creativos sean producidos, validados y distribuidos correctamente a través de múltiples canales. Este rol garantiza calidad, cumplimiento de especificaciones y eficiencia operativa, colaborando con equipos globales para asegurar el éxito de campañas complejas.\n\n## Responsabilidades\n\n- Liderar la planificación end-to-end de delivery para campañas y marcas asignadas.\n- Definir hitos y cronogramas alineados con producción, media y requerimientos de plataformas.\n- Interpretar media plans, entregables de producción y especificaciones técnicas para definir entregables finales.\n- Gestionar flujos de trabajo asegurando correcta asignación, seguimiento y cumplimiento de tareas.\n- Actuar como experto en especificaciones de medios y plataformas, traduciendo requerimientos a guías claras.\n- Liderar procesos de pre-clearance y clearance final en múltiples mercados.\n- Gestionar asignación de CIDs y taxonomía creativa asegurando metadata consistente.\n- Validar y controlar la preparación de activos finales (masters, versiones, idiomas, captions, etc.).\n- Generar instrucciones de tráfico y órdenes de distribución alineadas con media buys.\n- Coordinar con proveedores, producción y medios para resolver requerimientos técnicos.\n- Liderar control de calidad (QC) de assets y links de entrega.\n- Identificar y resolver fallas o desviaciones en entregables.\n- Mantener trackers, documentación y reportes de estado actualizados.\n- Comunicar riesgos, impactos y avances a stakeholders internos y clientes.\n- Supervisar la gestión de costos, estimados y órdenes de compra con equipos financieros.\n- Guiar y desarrollar a Content Delivery Associates mediante coaching y feedback.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Conocimiento integral del ciclo de delivery de contenido.\n- Interpretación de media plans y especificaciones técnicas.\n- Gestión de workflows, trackers y documentación.\n- Control de calidad de assets creativos.\n- Manejo de sistemas de tráfico y distribución de contenido.\n- Gestión de metadata, CIDs y taxonomía.\n- Conocimiento en procesos de producción, postproducción y localización.\n- Manejo de presupuestos, estimados y órdenes de compra.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Alta organización y gestión del tiempo.\n- Atención al detalle y enfoque en calidad.\n- Comunicación efectiva con múltiples stakeholders.\n- Liderazgo e influencia sin autoridad directa.\n- Pensamiento analítico y resolución de problemas.\n- Capacidad para trabajar bajo presión.\n- Proactividad y orientación a soluciones.\n- Habilidad para mentoring y desarrollo de equipo.\n- Adaptabilidad a entornos dinámicos y globales."
+      }
+    },
+    "content-lead": {
+      "slug": "content-lead",
+      "nombre": "Content Lead",
+      "icono": "",
+      "descripcion_corta": "Lidera la planificación, ejecución y entrega de proyectos digitales coordinando equipos multidisciplinarios.",
+      "contexto_ai": "El Content Lead lidera la planificación, ejecución y entrega de proyectos digitales, asegurando resultados exitosos en términos de tiempo, calidad y objetivos estratégicos. Combina liderazgo, gestión de proyectos y visión estratégica, siendo clave para coordinar equipos multidisciplinarios en entornos creativos y dinámicos.",
+      "skills": {
+        "role": "El Content Lead será responsable de liderar la planificación, ejecución y entrega de proyectos digitales, asegurando resultados exitosos en términos de tiempo, calidad y objetivos estratégicos. Este rol combina liderazgo, gestión de proyectos y visión estratégica, siendo clave para coordinar equipos multidisciplinarios en entornos creativos y dinámicos.\n\n## Responsabilidades\n\n- Planificar, ejecutar y cerrar proyectos digitales asegurando el cumplimiento de plazos y objetivos.\n- Coordinar y alinear equipos multidisciplinarios (diseño, desarrollo, marketing).\n- Gestionar la comunicación con clientes y stakeholders, garantizando transparencia.\n- Identificar riesgos del proyecto y desarrollar estrategias de mitigación.\n- Monitorear el desempeño de los proyectos y realizar ajustes cuando sea necesario.\n- Asegurar la correcta priorización de tareas y uso eficiente de recursos.\n- Implementar y optimizar procesos internos para mejorar la eficiencia operativa.\n- Asegurar calidad en la ejecución y coherencia con la estrategia del proyecto.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de proyectos digitales end-to-end.\n- Conocimiento de metodologías de trabajo (Agile, Scrum u otras).\n- Manejo de herramientas de gestión de proyectos.\n- Seguimiento de métricas y desempeño de proyectos.\n- Planificación de cronogramas y asignación de recursos.\n- Comprensión de procesos digitales (diseño, desarrollo, marketing).",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo de equipos.\n- Comunicación clara y efectiva.\n- Organización y gestión del tiempo.\n- Pensamiento estratégico.\n- Resolución de problemas.\n- Proactividad y orientación a resultados.\n- Adaptabilidad a entornos dinámicos.\n- Trabajo colaborativo."
+      }
+    },
+    "creative-resource-manager": {
+      "slug": "creative-resource-manager",
+      "nombre": "Creative Resource Manager",
+      "icono": "",
+      "descripcion_corta": "Gestiona y asigna estratégicamente recursos creativos, equilibrando cargas de trabajo y anticipando necesidades de capacidad.",
+      "contexto_ai": "El/la Creative Resource Manager gestiona estratégicamente y asigna los recursos creativos para garantizar la ejecución eficiente y fluida de proyectos a través de múltiples equipos. Actúa como enlace clave entre project managers, líderes creativos y equipos de producción, equilibrando cargas de trabajo y anticipando necesidades de capacidad.",
+      "skills": {
+        "role": "El/la Creative Resource Manager es responsable de gestionar estratégicamente y asignar los recursos creativos para garantizar la ejecución eficiente y fluida de proyectos a través de múltiples equipos. Actúa como un enlace clave entre project managers, líderes creativos y equipos de producción, equilibrando cargas de trabajo y anticipando necesidades de capacidad.\n\n## Responsabilidades\n\n- Mantener una visión actualizada de la capacidad del equipo y disponibilidad de recursos.\n- Asignar el talento adecuado a cada proyecto según habilidades y prioridades.\n- Colaborar con líderes para anticipar necesidades de recursos.\n- Identificar necesidades de freelancers y apoyar su incorporación.\n- Monitorear la utilización del equipo.\n- Gestionar conflictos de recursos y cambios de prioridades.\n- Utilizar herramientas de planificación.\n- Apoyar planes de staffing.\n- Gestionar estrategia de staffing (interno, freelance y offshore).",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de capacidad y planificación de recursos.\n- Herramientas de project management.\n- Operaciones creativas.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Pensamiento estratégico.\n- Comunicación efectiva.\n- Resolución de problemas.\n- Trabajo colaborativo.\n- Adaptabilidad."
+      }
+    },
+    "integrated-traffic-manager": {
+      "slug": "integrated-traffic-manager",
+      "nombre": "Integrated Traffic Manager",
+      "icono": "",
+      "descripcion_corta": "Lidera la operación del área de tráfico, asegurando gestión, distribución y entrega de materiales en campañas publicitarias.",
+      "contexto_ai": "El Integrated Traffic Manager lidera y supervisa la operación del área de tráfico, asegurando la correcta gestión, distribución y entrega de materiales en campañas publicitarias. Combina liderazgo de equipo, conocimiento técnico en procesos de tráfico y coordinación estratégica entre áreas para garantizar eficiencia, cumplimiento de estándares y calidad en las entregas.",
+      "skills": {
+        "role": "El Integrated Traffic Manager será responsable de liderar y supervisar la operación del área de tráfico, asegurando la correcta gestión, distribución y entrega de materiales en campañas publicitarias. Este rol combina liderazgo de equipo, conocimiento técnico en procesos de tráfico y coordinación estratégica entre áreas para garantizar eficiencia, cumplimiento de estándares y calidad en las entregas.\n\n## Responsabilidades\n\n- Supervisar y capacitar a los coordinadores en todos los procesos de tráfico.\n- Asignar cuentas y balancear la carga de trabajo dentro del equipo.\n- Mantener actualizadas las asignaciones del equipo.\n- Aprobar tiempos, vacaciones y controlar la asistencia.\n- Apoyar procesos de reclutamiento y selección.\n- Participar en procesos de formación interna.\n- Actuar como punto de enlace entre tráfico, cuentas y media para resolver problemas.\n- Definir y optimizar procedimientos de tráfico para nuevas cuentas.\n- Dar lineamientos a Account Services sobre la gestión de entregables.\n- Gestionar el acceso y uso de herramientas como Mediaocean y Ad-ID.\n- Asegurar el cumplimiento de estándares de la industria.\n- Gestionar relaciones con proveedores externos (storage, tape houses, etc.).\n- Supervisar y resolver discrepancias en facturación de proveedores.\n- Coordinar con finanzas la gestión de pagos e incidencias.\n- Administrar almacenamiento y transición de materiales entre cuentas.\n- Monitorear reportes operativos y métricas de tráfico.\n- Asegurar la documentación y trazabilidad de procesos.\n- Garantizar el cumplimiento de tiempos de entrega y calidad operativa.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Conocimiento de procesos de tráfico publicitario.\n- Manejo de herramientas como Mediaocean.\n- Gestión de proveedores y procesos de facturación.\n- Conocimiento en producción audiovisual.\n- Control de flujos operativos.\n- Manejo de herramientas administrativas.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo y gestión de equipos.\n- Comunicación efectiva.\n- Alta organización y atención al detalle.\n- Resolución de problemas.\n- Manejo de múltiples proyectos.\n- Adaptabilidad.\n- Trabajo en equipo."
+      }
+    },
+    "motion-designer": {
+      "slug": "motion-designer",
+      "nombre": "Motion Designer",
+      "icono": "",
+      "descripcion_corta": "Crea animaciones dinámicas y contenido visual de alto impacto para campañas globales, combinando storytelling y branding.",
+      "contexto_ai": "El Motion Designer crea animaciones dinámicas y contenido visual de alto impacto para campañas globales, combinando storytelling, branding y producción audiovisual.",
+      "skills": {
+        "role": "Diseñador de motion responsable de crear animaciones dinámicas y contenido visual de alto impacto para campañas globales, combinando storytelling, branding y producción audiovisual.\n\n## Responsabilidades\n\n- Crear animaciones para contenido publicitario y digital.\n- Colaborar con equipos creativos y de producción.\n- Garantizar consistencia visual y de marca.\n- Integrar animación 2D y 3D cuando sea necesario.\n- Proponer ideas creativas innovadoras.\n- Entregar piezas en tiempos establecidos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- After Effects.\n- Illustrator.\n- Photoshop.\n- Edición de video.\n- Animación 2D/3D.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Creatividad.\n- Colaboración.\n- Comunicación.\n- Adaptabilidad."
+      }
+    },
+    "operation-manager": {
+      "slug": "operation-manager",
+      "nombre": "Operation Manager",
+      "icono": "",
+      "descripcion_corta": "Lidera proyectos operativos y técnicos alineando estrategia, eficiencia y ejecución para fortalecer procesos y herramientas.",
+      "contexto_ai": "El Operation Manager lidera proyectos operativos y técnicos, alineando estrategia, eficiencia y ejecución para fortalecer procesos y herramientas dentro de la organización.",
+      "skills": {
+        "role": "Responsable de liderar proyectos operativos y técnicos, alineando estrategia, eficiencia y ejecución para fortalecer procesos y herramientas dentro de la organización.\n\n## Responsabilidades\n\n- Definir alcance, recursos y planificación de proyectos.\n- Gestionar stakeholders y comunicación.\n- Liderar equipos multidisciplinarios.\n- Identificar riesgos y diseñar mitigaciones.\n- Gestionar cronogramas y entregables.\n- Implementar estrategias de cambio.\n- Optimizar procesos y flujos de trabajo.\n- Asegurar mejores prácticas operativas.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de proyectos.\n- Metodologías ágiles.\n- Herramientas digitales.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Pensamiento estratégico.\n- Liderazgo.\n- Comunicación.\n- Proactividad."
+      }
+    },
+    "production-artist": {
+      "slug": "production-artist",
+      "nombre": "Production Artist",
+      "icono": "",
+      "descripcion_corta": "Produce piezas finales de alta calidad en entornos digitales e impresos, asegurando estándares de marca y calidad.",
+      "contexto_ai": "El Production Artist trabaja con equipos creativos para producir piezas finales de alta calidad en entornos digitales e impresos, asegurando cumplimiento de estándares de marca y calidad en cada entrega.",
+      "skills": {
+        "role": "Responsable de trabajar con equipos creativos para producir piezas finales de alta calidad en entornos digitales e impresos, asegurando cumplimiento de estándares de marca y calidad en cada entrega.\n\n## Responsabilidades\n\n- Colaborar con directores de arte, diseñadores y desarrolladores.\n- Preparar y preflight de archivos para proveedores o medios.\n- Gestionar estructura de archivos y nomenclatura.\n- Generar contenido en CMS.\n- Cumplir timelines de desarrollo.\n- Preparar archivos listos para impresión.\n- Adaptarse a cambios de proyecto.\n- Garantizar estándares de calidad y marca.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe Creative Suite.\n- Producción gráfica.\n- CMS.\n- Preflight y arte final.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Detalle.\n- Comunicación.\n- Trabajo en equipo.\n- Resolución de problemas."
+      }
+    },
+    "project-manager-offshoring": {
+      "slug": "project-manager-offshoring",
+      "nombre": "Project Manager",
+      "icono": "",
+      "descripcion_corta": "Coordina proyectos digitales conectando equipos creativos, cuentas y producción para asegurar entregas a tiempo.",
+      "contexto_ai": "El Project Manager coordina proyectos digitales, conectando equipos creativos, cuentas y producción para asegurar entregas a tiempo y con alta calidad.",
+      "skills": {
+        "role": "Responsable de coordinar proyectos digitales, conectando equipos creativos, cuentas y producción para asegurar entregas a tiempo y con alta calidad.\n\n## Responsabilidades\n\n- Liderar reuniones de seguimiento.\n- Gestionar cronogramas.\n- Asegurar entrega de assets y briefs.\n- Identificar riesgos y resolver problemas.\n- Facilitar comunicación entre equipos.\n- Garantizar entregables a tiempo.\n- Gestionar QA y documentación.\n- Administrar archivos y procesos en SharePoint.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Project management.\n- Workfront.\n- SharePoint.\n- Adobe Suite.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Organización.\n- Comunicación.\n- Resolución.\n- Liderazgo."
+      }
+    },
+    "studio-coordinator": {
+      "slug": "studio-coordinator",
+      "nombre": "Studio Coordinator",
+      "icono": "",
+      "descripcion_corta": "Audita solicitudes de proyectos y asegura su correcta asignación dentro del estudio para garantizar eficiencia en el flujo de trabajo.",
+      "contexto_ai": "El Studio Coordinator audita solicitudes de proyectos y asegura su correcta asignación dentro del estudio, garantizando eficiencia en el flujo de trabajo.",
+      "skills": {
+        "role": "Responsable de auditar solicitudes de proyectos y asegurar su correcta asignación dentro del estudio, garantizando eficiencia en el flujo de trabajo.\n\n## Responsabilidades\n\n- Gestionar intake de proyectos y escalaciones.\n- Auditar solicitudes y validar información y assets.\n- Asignar proyectos al equipo adecuado.\n- Mantener estructuras en herramientas de workflow.\n- Coordinar con agencias y equipo interno.\n- Promover mejores prácticas con stakeholders.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Workflow tools.\n- Gestión de proyectos.\n- Producción.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Detalle.\n- Proactividad.\n- Comunicación.\n- Organización."
+      }
+    },
+    "talent-associate": {
+      "slug": "talent-associate",
+      "nombre": "Talent Associate",
+      "icono": "",
+      "descripcion_corta": "Apoya la gestión de talento mediante administración de contratos, cumplimiento normativo y soporte operativo.",
+      "contexto_ai": "El Talent Associate apoya la gestión de talento mediante la administración de contratos, cumplimiento normativo y soporte operativo al área.",
+      "skills": {
+        "role": "Apoya la gestión de talento mediante la administración de contratos, cumplimiento normativo y soporte operativo al área.\n\n## Responsabilidades\n\n- Apoyar negociación y gestión de contratos.\n- Coordinar con equipos de producción y cuentas.\n- Actualizar bases de datos de talento.\n- Comunicar con agentes y representantes.\n- Monitorear cumplimiento regulatorio.\n- Soporte administrativo y reporting.\n- Escalar riesgos y problemas.\n- Apoyar estrategias del área.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Contratos.\n- Sistemas de talento.\n- Compliance.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Organización.\n- Comunicación.\n- Detalle.\n- Trabajo en equipo."
+      }
+    },
+    "talent-lead": {
+      "slug": "talent-lead",
+      "nombre": "Talent Lead",
+      "icono": "",
+      "descripcion_corta": "Coordina procesos financieros y administrativos relacionados con talento, gestionando órdenes de compra, pagos y presupuestos.",
+      "contexto_ai": "El Talent Lead coordina procesos financieros y administrativos relacionados con talento, gestionando órdenes de compra, pagos y presupuestos.",
+      "skills": {
+        "role": "Responsable de coordinar procesos financieros y administrativos relacionados con talento, gestionando órdenes de compra, pagos y presupuestos.\n\n## Responsabilidades\n\n- Gestionar órdenes de compra.\n- Coordinar pagos a proveedores.\n- Controlar presupuestos y estimados.\n- Coordinar con proveedores y equipos internos.\n- Mantener documentación organizada.\n- Realizar reportes y seguimiento.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- POs.\n- Presupuestos.\n- Gestión financiera.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Organización.\n- Proactividad.\n- Comunicación.\n- Detalle."
+      }
+    },
+    "talent-manager": {
+      "slug": "talent-manager",
+      "nombre": "Talent Manager",
+      "icono": "",
+      "descripcion_corta": "Gestiona las operaciones del área de talento, contratos, negociaciones y cumplimiento normativo.",
+      "contexto_ai": "El Talent Manager gestiona las operaciones del área de talento, incluyendo contratos, negociaciones y cumplimiento normativo, trabajando de forma cercana con equipos internos y stakeholders.",
+      "skills": {
+        "role": "Responsable de gestionar las operaciones del área de talento, incluyendo contratos, negociaciones y cumplimiento normativo, trabajando de forma cercana con equipos internos y stakeholders.\n\n## Responsabilidades\n\n- Gestionar operaciones del área de talento.\n- Negociar y administrar contratos.\n- Coordinar con equipos de producción y cuentas.\n- Mantener relación con agentes y representantes.\n- Garantizar cumplimiento regulatorio.\n- Reportar métricas y actividades.\n- Apoyar estrategia del área.\n- Mentorear miembros del equipo.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de contratos.\n- Regulación de talento.\n- Software de gestión.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Comunicación.\n- Organización.\n- Resolución de problemas.\n- Trabajo en equipo."
+      }
+    },
+    "web-producer": {
+      "slug": "web-producer",
+      "nombre": "Web Producer",
+      "icono": "",
+      "descripcion_corta": "Gestiona proyectos web, interactúa con clientes y coordina equipos para asegurar la ejecución de contenidos en plataformas CMS.",
+      "contexto_ai": "El Web Producer gestiona proyectos web, interactúa con clientes y coordina equipos para asegurar la correcta ejecución de contenidos en plataformas CMS.",
+      "skills": {
+        "role": "Responsable de gestionar proyectos web, interactuar con clientes y coordinar equipos para asegurar la correcta ejecución de contenidos en plataformas CMS.\n\n## Responsabilidades\n\n- Gestionar briefs y cronogramas.\n- Coordinar equipos de diseño y QA.\n- Administrar CMS.\n- Monitorear entregas y calidad.\n- Gestionar despliegues y documentación.\n- Coordinar con cliente.\n- Administrar múltiples proyectos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- CMS.\n- Gestión de proyectos.\n- Web publishing.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Comunicación.\n- Organización.\n- Trabajo en equipo.\n- Adaptabilidad."
+      }
+    },
+    "brand-keeper": {
+      "slug": "brand-keeper",
+      "nombre": "Brand Keeper",
+      "icono": "",
+      "descripcion_corta": "Garantiza la calidad visual y la consistencia de marca en piezas creativas digitales, estáticas y animadas.",
+      "contexto_ai": "El Brand Keeper está enfocado en garantizar la calidad visual y la consistencia de marca en todas las piezas creativas digitales, tanto estáticas como animadas. Actúa como filtro de control de calidad dentro del equipo creativo y de producción, colaborando con diseñadores, productores y equipos de servicio al cliente para mantener la excelencia visual en campañas digitales de alto volumen.",
+      "skills": {
+        "role": "El puesto de Brand Keeper está enfocado en garantizar la calidad visual y la consistencia de marca en todas las piezas creativas digitales, tanto estáticas como animadas. La persona será responsable de revisar, validar y asegurar que todos los entregables cumplan con los lineamientos de marca, especificaciones técnicas y estándares de calidad antes de su publicación.\n\nEste rol actúa como un filtro de control de calidad dentro del equipo creativo y de producción, colaborando estrechamente con diseñadores, productores y equipos de servicio al cliente para mantener la excelencia visual en campañas digitales de alto volumen.\n\n## Responsabilidades\n\n- Revisar piezas digitales estáticas y animadas como banners, posts para redes sociales, anuncios HTML y formatos OOH digitales.\n- Validar que los entregables cumplan con briefs, lineamientos de marca y especificaciones técnicas.\n- Verificar ortografía, consistencia visual, alineación de diseño, resolución y lógica de animación.\n- Colaborar con equipos creativos, de producción y client service para detectar y corregir inconsistencias antes de la entrega final.\n- Garantizar que los assets estén correctamente adaptados a los requerimientos de cada plataforma digital (Google Display Network, Meta Ads, plataformas programáticas, pantallas OOH, etc.).\n- Documentar problemas recurrentes de calidad para apoyar mejoras continuas en los procesos de producción digital.\n- Mantener altos estándares de calidad visual y consistencia de marca incluso bajo presión y tiempos ajustados.\n- Dar feedback constructivo a diseñadores y productores para asegurar el cumplimiento de estándares creativos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Control de calidad de piezas digitales.\n- Revisión de assets estáticos y motion.\n- Adobe Creative Suite.\n- Validación de especificaciones técnicas.\n- Conocimiento de formatos display y publicidad digital.\n- Revisión de banners HTML.\n- Adaptación de piezas para plataformas digitales.\n- Conocimiento de Google Display Network, Meta Ads y plataformas programáticas.\n- Comprensión de workflows de producción digital.\n- Criterio tipográfico y visual.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Comunicación efectiva.\n- Organización.\n- Pensamiento crítico.\n- Trabajo en equipo.\n- Capacidad de dar feedback constructivo.\n- Gestión del tiempo.\n- Adaptabilidad.\n- Responsabilidad y enfoque en calidad.\n- Trabajo bajo presión.\n- Consistencia y enfoque en estándares visuales."
+      }
+    },
+    "creative-studio-director": {
+      "slug": "creative-studio-director",
+      "nombre": "Creative Studio Director",
+      "icono": "",
+      "descripcion_corta": "Lidera al equipo creativo en el desarrollo y ejecución de campañas, garantizando estándares visuales y coherencia de marca.",
+      "contexto_ai": "El Creative Studio Director lidera al equipo creativo en el desarrollo y ejecución de campañas, piezas de marketing y proyectos multimedia alineados con la visión del estudio y los objetivos del cliente. Combina liderazgo estratégico, mentoría de equipos creativos y colaboración constante con áreas de producción y diseño para impulsar una cultura creativa, innovadora y orientada a resultados.",
+      "skills": {
+        "role": "El puesto de Creative Studio Director tiene como objetivo liderar al equipo creativo en el desarrollo y ejecución de campañas, piezas de marketing y proyectos multimedia alineados con la visión del estudio y los objetivos del cliente. La persona será responsable de dirigir todo el proceso creativo, garantizar altos estándares visuales y mantener la coherencia de marca en todos los entregables.\n\nAdemás, este rol implica liderazgo estratégico, mentoría de equipos creativos y colaboración constante con diferentes áreas de producción y diseño para impulsar una cultura creativa, innovadora y orientada a resultados.\n\n## Responsabilidades\n\n- Liderar al equipo creativo en proyectos de marketing, campañas y contenido multimedia.\n- Definir y establecer la dirección creativa alineada con los objetivos del estudio y del cliente.\n- Supervisar proyectos desde la conceptualización hasta la entrega final.\n- Garantizar calidad visual, consistencia de marca y excelencia creativa en todos los entregables.\n- Colaborar con otros equipos para asegurar mensajes de marca alineados y coherentes.\n- Guiar, mentorizar y apoyar el crecimiento profesional del equipo creativo.\n- Fomentar una cultura de colaboración, innovación y creatividad.\n- Mantenerse actualizado sobre tendencias de la industria, diseño y nuevas tecnologías.\n- Supervisar y coordinar equipos de diseñadores, artistas de producción, proofreaders y retocadores.\n- Asegurar cumplimiento de tiempos y estándares de calidad en múltiples proyectos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Dirección creativa.\n- Branding y desarrollo de campañas.\n- Adobe Creative Suite.\n- Diseño gráfico y multimedia.\n- Gestión de proyectos creativos.\n- Supervisión de producción visual.\n- Desarrollo de conceptos creativos.\n- Control de calidad visual.\n- Conocimiento de tendencias creativas y herramientas digitales.\n- Gestión de workflows creativos.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo.\n- Comunicación efectiva.\n- Creatividad e innovación.\n- Pensamiento estratégico.\n- Trabajo en equipo.\n- Mentoría y desarrollo de talento.\n- Organización y gestión del tiempo.\n- Toma de decisiones.\n- Adaptabilidad.\n- Resolución de problemas.\n- Capacidad para inspirar y motivar equipos.\n- Colaboración interdisciplinaria."
+      }
+    },
+    "delivery-operations-project-manager": {
+      "slug": "delivery-operations-project-manager",
+      "nombre": "Delivery Operations Project Manager",
+      "icono": "",
+      "descripcion_corta": "Lidera proyectos tecnológicos y operativos, asegurando que herramientas y procesos apoyen los objetivos del negocio.",
+      "contexto_ai": "El Delivery Operations Project Manager lidera y coordina proyectos tecnológicos y operativos dentro de la organización, asegurando que las herramientas, procesos y servicios apoyen los objetivos del negocio y mejoren la eficiencia global. Combina experiencia en gestión de proyectos, operaciones y desarrollo de software con liderazgo, comunicación y gestión del cambio.",
+      "skills": {
+        "role": "El puesto de Delivery Operations Project Manager está enfocado en liderar y coordinar proyectos tecnológicos y operativos dentro de la organización, asegurando que las herramientas, procesos y servicios apoyen los objetivos del negocio y mejoren la eficiencia global.\n\nLa persona en este rol será responsable de gestionar proyectos de principio a fin, trabajando con equipos multidisciplinarios y stakeholders globales. Deberá planificar, monitorear avances, manejar riesgos, coordinar recursos y garantizar una comunicación clara durante todas las etapas del proyecto.\n\nEl perfil ideal combina experiencia en gestión de proyectos, operaciones y desarrollo de software, junto con habilidades sólidas de liderazgo, comunicación y gestión del cambio. Además, se valora experiencia en metodologías ágiles y en la implementación de mejoras operativas y tecnológicas en entornos corporativos o agencias.\n\n## Responsabilidades\n\n- Investigar, desarrollar y gestionar proyectos técnicos y de desarrollo de mediana y gran escala.\n- Garantizar que las herramientas, servicios y estructura organizacional cumplan con los objetivos del negocio.\n- Supervisar y dirigir equipos de proyecto.\n- Definir objetivos, alcance, hitos, recursos, capacitación y necesidades del proyecto.\n- Recopilar requerimientos de los sponsors/stakeholders y proponer planes de proyecto.\n- Organizar y facilitar reuniones con grupos de interés para identificar necesidades y generar consenso.\n- Monitorear y comunicar el estado del proyecto a líderes y stakeholders.\n- Gestionar cronogramas, presupuestos y cumplimiento de tiempos.\n- Liderar equipos multidisciplinarios (técnicos y no técnicos).\n- Identificar riesgos, barreras y estrategias de mitigación.\n- Coordinar y realizar entrenamientos relacionados con el proyecto.\n- Escalar problemas, retrasos y riesgos de manera oportuna.\n- Documentar procesos, procedimientos y requerimientos del negocio.\n- Elaborar comunicaciones claras sobre avances y handoffs del proyecto.\n- Diseñar planes de gestión del cambio y estrategias de adopción antes y después del go-live.\n- Facilitar el liderazgo de proyectos con equipos globales.\n- Ajustar planes de proyecto ante cambios o imprevistos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de proyectos.\n- Metodologías ágiles.\n- Desarrollo de software.\n- Microsoft 365 Suite.\n- Gestión de presupuestos y cronogramas.\n- Documentación de procesos y requerimientos.\n- Gestión del cambio.\n- Seguimiento y monitoreo de proyectos.\n- Coordinación de entrenamientos.\n- Gestión del ciclo de vida de software (SDLC).",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo.\n- Comunicación efectiva (oral y escrita).\n- Organización y planificación.\n- Trabajo en equipo.\n- Resolución de problemas.\n- Adaptabilidad al cambio.\n- Pensamiento estratégico.\n- Gestión de stakeholders.\n- Capacidad de negociación y consenso.\n- Atención al detalle.\n- Proactividad.\n- Manejo de múltiples proyectos y prioridades."
+      }
+    },
+    "digital-designer": {
+      "slug": "digital-designer",
+      "nombre": "Digital Designer",
+      "icono": "",
+      "descripcion_corta": "Crea piezas visuales impactantes para medios digitales, redes sociales, video y formatos interactivos.",
+      "contexto_ai": "El Digital Designer crea piezas visuales impactantes y efectivas para medios digitales, redes sociales, video y formatos interactivos. Transforma ideas creativas en contenido visual alineado con los objetivos de marca y campañas, combinando creatividad, ejecución técnica y narrativa visual.",
+      "skills": {
+        "role": "El puesto de Digital Designer está enfocado en crear piezas visuales impactantes y efectivas para medios digitales, redes sociales, video y formatos interactivos. La persona será responsable de transformar ideas creativas en contenido visual alineado con los objetivos de marca y campañas, combinando creatividad, ejecución técnica y narrativa visual.\n\nEste rol requiere trabajar de manera colaborativa con equipos creativos, producción y project management para desarrollar experiencias visuales atractivas y funcionales en múltiples plataformas digitales.\n\n## Responsabilidades\n\n- Desarrollar conceptos visuales originales basados en briefs creativos y objetivos del cliente.\n- Diseñar piezas visuales de alta calidad para plataformas digitales, video, DOOH y HTML5.\n- Colaborar con equipos creativos, productores y project managers para garantizar entregas alineadas con la marca.\n- Integrar video e interactividad en piezas digitales cuando sea necesario.\n- Presentar propuestas creativas a stakeholders internos y liderazgo senior.\n- Gestionar tiempos de producción y presupuestos con organización y precisión.\n- Proponer soluciones visuales para desafíos de comunicación complejos.\n- Garantizar consistencia visual y calidad en todos los entregables.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Diseño digital.\n- Diseño para redes sociales y video.\n- Adobe Photoshop.\n- Adobe Illustrator.\n- Adobe After Effects.\n- HTML5.\n- Integración de video en formatos online.\n- Diseño DOOH (Digital Out Of Home).\n- Producción gráfica y digital.\n- Storytelling visual.\n- Composición visual y teoría del color.\n- Diseño interactivo.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Creatividad.\n- Comunicación efectiva.\n- Trabajo en equipo.\n- Atención al detalle.\n- Pensamiento visual y conceptual.\n- Organización y manejo del tiempo.\n- Adaptabilidad.\n- Resolución de problemas.\n- Capacidad de presentar ideas con seguridad.\n- Colaboración interdisciplinaria.\n- Responsabilidad y cumplimiento de deadlines."
+      }
+    },
+    "digital-planner": {
+      "slug": "digital-planner",
+      "nombre": "Digital Planner",
+      "icono": "",
+      "descripcion_corta": "Identifica tendencias digitales y señales culturales para desarrollar campañas creativas estratégicas y centradas en la audiencia.",
+      "contexto_ai": "El Digital Planner identifica tendencias digitales, señales culturales y comportamientos en redes sociales para desarrollar campañas creativas relevantes, estratégicas y centradas en la audiencia. Conecta estrategias globales con ejecuciones locales, asegurando contenido auténtico para cada plataforma y alineado con las dinámicas culturales y digitales actuales.",
+      "skills": {
+        "role": "El puesto de Digital Planner está enfocado en identificar tendencias digitales, señales culturales y comportamientos en redes sociales para desarrollar campañas creativas relevantes, estratégicas y centradas en la audiencia. La persona será responsable de conectar estrategias globales con ejecuciones locales, asegurando que el contenido sea auténtico para cada plataforma y alineado con las dinámicas culturales y digitales actuales.\n\nEste rol combina análisis, creatividad y pensamiento estratégico para transformar insights culturales y tendencias emergentes en oportunidades de contenido altamente compartible, fortaleciendo el engagement y la autoridad de marca en entornos digitales.\n\n## Responsabilidades\n\n- Transformar briefs de clientes en briefs creativos alineados con objetivos de marca y tendencias digitales.\n- Identificar insights culturales, tendencias digitales y comportamientos sociales relevantes.\n- Liderar la dirección estratégica de contenido basada en dinámicas propias de cada plataforma digital.\n- Colaborar con equipos creativos, diseño, copy y producción para asegurar mensajes culturalmente relevantes.\n- Supervisar proyectos digitales desde la identificación de tendencias hasta la entrega final.\n- Garantizar que el contenido sea “platform-native” y optimizado para algoritmos y engagement.\n- Realizar benchmarks digitales y análisis de competidores para detectar oportunidades de posicionamiento.\n- Monitorear constantemente memes, subculturas, tendencias y nuevas tecnologías.\n- Inspirar y guiar al equipo creativo mediante referencias culturales y pensamiento social-first.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Estrategia de contenido digital.\n- Social listening tools.\n- Análisis de tendencias digitales.\n- Platform analytics.\n- Benchmarking digital.\n- Estrategia social-first.\n- Conocimiento de algoritmos de redes sociales.\n- Investigación cultural y de audiencias.\n- Desarrollo de briefs creativos.\n- Estrategia de campañas digitales.\n- Content planning.\n- Curaduría de referencias creativas.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Pensamiento estratégico.\n- Creatividad.\n- Capacidad analítica.\n- Comunicación efectiva.\n- Liderazgo e inspiración de equipos.\n- Adaptabilidad.\n- Curiosidad digital y cultural.\n- Trabajo colaborativo.\n- Proactividad.\n- Resolución de problemas.\n- Organización.\n- Capacidad para detectar oportunidades y tendencias rápidamente."
+      }
+    },
+    "editor": {
+      "slug": "editor",
+      "nombre": "Editor",
+      "icono": "",
+      "descripcion_corta": "Edita y adapta contenido audiovisual para campañas publicitarias globales, asegurando calidad visual y coherencia de marca.",
+      "contexto_ai": "El Editor está enfocado en la edición y adaptación de contenido audiovisual para campañas publicitarias y contenido de marca con alcance global. Transforma material audiovisual en piezas con alto impacto emocional y narrativo, asegurando calidad visual, coherencia de marca y adaptación cultural para diferentes mercados e idiomas.",
+      "skills": {
+        "role": "El puesto de Editor está enfocado en la edición y adaptación de contenido audiovisual para campañas publicitarias y contenido de marca con alcance global. La persona será responsable de transformar material audiovisual en piezas con alto impacto emocional y narrativo, asegurando calidad visual, coherencia de marca y adaptación cultural para diferentes mercados e idiomas.\n\nEl rol requiere una combinación de creatividad, storytelling, dominio técnico en edición y capacidad de trabajar colaborativamente con equipos de postproducción, motion graphics y producción dentro de un entorno híbrido y dinámico.\n\n## Responsabilidades\n\n- Editar campañas publicitarias, branded content y piezas comerciales.\n- Construir narrativas audiovisuales con impacto emocional y ritmo visual.\n- Colaborar con directores creativos, productores y equipos de motion.\n- Organizar y ensamblar material audiovisual en secuencias coherentes y dinámicas.\n- Integrar música, diseño sonoro, VFX y corrección de color en las entregas finales.\n- Adaptar y localizar contenido para diferentes idiomas, plataformas y mercados.\n- Garantizar entregas alineadas con la marca y dentro de los tiempos establecidos.\n- Trabajar bajo flujos de trabajo establecidos aportando creatividad y criterio propio.\n- Mantener precisión técnica y sensibilidad cultural en las adaptaciones de contenido.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Edición audiovisual profesional.\n- Storytelling visual.\n- Adobe Premiere.\n- DaVinci Resolve.\n- Adobe After Effects.\n- Motion graphics básicos.\n- VFX básicos.\n- Color grading.\n- Diseño sonoro y sincronización musical.\n- Adaptación y localización de contenido.\n- Manejo de workflows remotos y cloud-based platforms.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Creatividad.\n- Atención extrema al detalle.\n- Comunicación efectiva.\n- Trabajo en equipo.\n- Sensibilidad cultural.\n- Pensamiento narrativo.\n- Organización y manejo del tiempo.\n- Resolución de problemas.\n- Adaptabilidad.\n- Colaboración interdisciplinaria.\n- Capacidad para trabajar bajo presión y cumplir deadlines."
+      }
+    },
+    "executive-producer-sr-display": {
+      "slug": "executive-producer-sr-display",
+      "nombre": "Executive Producer Sr Display",
+      "icono": "",
+      "descripcion_corta": "Lidera equipos de producción display/print y gestiona proyectos desde inicio hasta entrega, asegurando eficiencia y calidad.",
+      "contexto_ai": "El Executive Producer Sr. Display lidera equipos de producción y gestiona proyectos de display/print desde su inicio hasta la entrega final, garantizando eficiencia operativa, calidad y cumplimiento de tiempos y presupuestos. Combina liderazgo estratégico, experiencia técnica en producción y capacidad para impulsar innovación mediante tecnologías como automatización e inteligencia artificial.",
+      "skills": {
+        "role": "El puesto de Executive Producer Sr. Display está enfocado en liderar equipos de producción y gestionar proyectos de display/print desde su inicio hasta la entrega final, garantizando eficiencia operativa, calidad y cumplimiento de tiempos y presupuestos. La persona será responsable de supervisar workflows de producción, optimizar procesos y asegurar la excelencia en todos los entregables.\n\nEste rol combina liderazgo estratégico, experiencia técnica en producción y capacidad para impulsar innovación mediante tecnologías como automatización e inteligencia artificial, trabajando de manera cercana con clientes, productores y equipos creativos.\n\n## Responsabilidades\n\n- Liderar y gestionar equipos de producción asegurando una ejecución eficiente de proyectos.\n- Supervisar todas las etapas de producción desde el inicio hasta la entrega final.\n- Garantizar cumplimiento de timelines, presupuestos y estándares de calidad.\n- Mentorizar, capacitar e inspirar equipos de producción fomentando alto desempeño.\n- Implementar tecnologías innovadoras como AI, automatización, software y hardware para optimizar workflows.\n- Impulsar mejoras continuas e innovación en procesos de producción.\n- Asegurar organización, documentación y atención al detalle en todos los proyectos.\n- Colaborar con equipos creativos, técnicos y de account management para lograr ejecuciones integrales.\n- Gestionar riesgos, resolver problemas y proponer soluciones estratégicas.\n- Mantener altos estándares de excelencia y competitividad en producción.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de producción.\n- Liderazgo de proyectos print/display.\n- Gestión de workflows de producción.\n- Planeación y control de presupuestos.\n- Implementación de AI y automatización.\n- Manejo de software y hardware de producción.\n- Gestión de calidad.\n- Documentación y seguimiento de proyectos.\n- Resolución de riesgos y troubleshooting.\n- Coordinación cross-functional con equipos creativos y técnicos.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Liderazgo.\n- Comunicación efectiva.\n- Organización.\n- Atención al detalle.\n- Pensamiento estratégico.\n- Resolución de problemas.\n- Toma de decisiones.\n- Mentoría y coaching.\n- Trabajo colaborativo.\n- Adaptabilidad.\n- Innovación.\n- Gestión del tiempo y prioridades.\n- Capacidad para trabajar bajo presión."
+      }
+    },
+    "industrial-designer": {
+      "slug": "industrial-designer",
+      "nombre": "Industrial Designer",
+      "icono": "",
+      "descripcion_corta": "Conceptualiza y desarrolla modelos 3D, mockups y prototipos funcionales combinando innovación, viabilidad técnica y estética.",
+      "contexto_ai": "El Industrial Designer (3D / Prototype) conceptualiza, diseña y desarrolla modelos tridimensionales, mockups y prototipos funcionales que combinan innovación, viabilidad técnica y estética de marca. Transforma ideas en propuestas visuales y físicas de alta calidad, asegurando que los diseños cumplan con requisitos funcionales, procesos de fabricación y estándares visuales.",
+      "skills": {
+        "role": "El puesto de Industrial Designer (3D / Prototype) está enfocado en conceptualizar, diseñar y desarrollar modelos tridimensionales, mockups y prototipos funcionales que combinen innovación, viabilidad técnica y estética de marca. La persona será responsable de transformar ideas en propuestas visuales y físicas de alta calidad, asegurando que los diseños cumplan con requisitos funcionales, procesos de fabricación y estándares visuales.\n\nEste rol requiere una combinación de creatividad, conocimiento técnico y colaboración constante con equipos creativos, ingeniería y producción para llevar productos y experiencias desde la idea inicial hasta prototipos listos para producción.\n\n## Responsabilidades\n\n- Desarrollar modelos 3D, prototipos y mockups desde el concepto inicial hasta diseños listos para producción.\n- Garantizar que los diseños cumplan requisitos funcionales, técnicos y estéticos.\n- Colaborar con equipos creativos, ingenieros y especialistas de producción para asegurar viabilidad e innovación.\n- Preparar y presentar visualizaciones y prototipos para revisiones internas y con clientes.\n- Investigar materiales y realizar pruebas para optimizar desempeño y apariencia de prototipos.\n- Gestionar timelines de producción de prototipos asegurando cumplimiento de entregas y calidad.\n- Documentar procesos de desarrollo y mantener registros de iteraciones y especificaciones técnicas.\n- Organizar y mantener archivos de modelos 3D, versiones y materiales utilizados.\n- Asegurar altos estándares de calidad durante todas las etapas de diseño y producción.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Modelado 3D.\n- Renderizado y visualización.\n- Desarrollo de prototipos.\n- Rhino.\n- KeyShot.\n- Blender.\n- ZBrush.\n- Investigación y selección de materiales.\n- Conocimiento de procesos de fabricación.\n- Desarrollo de mockups.\n- Documentación técnica.\n- Gestión de archivos y versiones de diseño.\n- Diseño orientado a manufactura.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Creatividad.\n- Atención al detalle.\n- Organización.\n- Comunicación efectiva.\n- Trabajo en equipo.\n- Resolución de problemas.\n- Adaptabilidad.\n- Gestión del tiempo.\n- Pensamiento crítico.\n- Capacidad de recibir y dar feedback constructivo.\n- Colaboración interdisciplinaria.\n- Orientación a la calidad y la innovación."
+      }
+    },
+    "production-artist-mechanicals": {
+      "slug": "production-artist-mechanicals",
+      "nombre": "Production Artist Mechanicals",
+      "icono": "",
+      "descripcion_corta": "Prepara y finaliza archivos mecánicos listos para impresión, garantizando precisión técnica y consistencia de marca.",
+      "contexto_ai": "El Production Artist Mechanicals prepara, ajusta y finaliza archivos mecánicos listos para impresión, garantizando precisión técnica, calidad visual y consistencia de marca en todos los materiales gráficos. Transforma conceptos creativos en archivos técnicamente correctos para producción, asegurando cumplimiento de especificaciones de impresión y estándares de preprensa.",
+      "skills": {
+        "role": "El puesto de Production Artist Mechanicals está enfocado en preparar, ajustar y finalizar archivos mecánicos listos para impresión, garantizando precisión técnica, calidad visual y consistencia de marca en todos los materiales gráficos. La persona será responsable de transformar conceptos creativos en archivos técnicamente correctos para producción, asegurando cumplimiento de especificaciones de impresión y estándares de preprensa.\n\nEste rol requiere un alto nivel de detalle, conocimiento técnico de producción gráfica y capacidad para trabajar de manera colaborativa con diseñadores, directores de arte y proveedores de impresión.\n\n## Responsabilidades\n\n- Preparar archivos mecánicos listos para impresión basados en conceptos creativos aprobados.\n- Ajustar layouts, tipografía e imágenes de acuerdo con lineamientos de marca y estándares de producción.\n- Revisar y solucionar problemas técnicos en archivos antes de enviarlos a proveedores.\n- Colaborar con diseñadores y directores de arte para adaptar conceptos creativos a piezas técnicamente correctas.\n- Realizar revisiones preflight para garantizar que los archivos estén completos y listos para producción.\n- Coordinar con proveedores de impresión para validar compatibilidad de archivos y resolver problemas técnicos básicos.\n- Mantener estructuras organizadas de archivos, librerías y versiones de artes finales.\n- Gestionar múltiples proyectos simultáneamente asegurando calidad y cumplimiento de deadlines.\n- Mantenerse actualizado sobre tecnologías, workflows y tendencias de producción gráfica e impresión.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe InDesign.\n- Adobe Illustrator.\n- Adobe Photoshop.\n- Preparación de archivos mecánicos.\n- Preprensa.\n- Manejo de color.\n- Producción gráfica.\n- Impresión offset.\n- Impresión digital.\n- Impresión gran formato.\n- Revisiones preflight.\n- Control de versiones y organización de assets.\n- Corrección de layouts y tipografía.\n- Troubleshooting técnico de archivos.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Organización.\n- Gestión del tiempo.\n- Trabajo en equipo.\n- Comunicación efectiva.\n- Resolución de problemas.\n- Adaptabilidad.\n- Responsabilidad.\n- Pensamiento técnico.\n- Capacidad para trabajar bajo presión.\n- Proactividad.\n- Enfoque en calidad y precisión."
+      }
+    },
+    "production-designer": {
+      "slug": "production-designer",
+      "nombre": "Production Designer",
+      "icono": "",
+      "descripcion_corta": "Ejecuta y finaliza piezas creativas para medios impresos, digitales y audiovisuales, asegurando precisión técnica y consistencia visual.",
+      "contexto_ai": "El Production Designer ejecuta, adapta y finaliza piezas creativas para medios impresos, digitales y audiovisuales, garantizando precisión técnica, consistencia visual y cumplimiento de estándares de marca. Convierte conceptos creativos en entregables listos para producción, asegurando calidad y eficiencia en múltiples formatos y canales.",
+      "skills": {
+        "role": "El puesto de Production Designer está enfocado en ejecutar, adaptar y finalizar piezas creativas para medios impresos, digitales y audiovisuales, garantizando precisión técnica, consistencia visual y cumplimiento de estándares de marca. La persona será responsable de convertir conceptos creativos en entregables listos para producción, asegurando calidad y eficiencia en múltiples formatos y canales.\n\nEste rol funciona como puente entre diseño y producción, trabajando de manera cercana con diseñadores y equipos de producción para asegurar implementaciones visuales exactas y técnicamente correctas.\n\n## Responsabilidades\n\n- Preparar, adaptar y finalizar piezas creativas para formatos print, digital y motion.\n- Garantizar precisión técnica, consistencia visual y alineación con lineamientos de marca.\n- Colaborar con diseñadores y project managers para cumplir requerimientos de producción y timelines.\n- Ejecutar artes finales, resizing y versionamiento de layouts para múltiples formatos y canales.\n- Realizar revisiones preflight, empaquetar archivos y archivar assets correctamente.\n- Detectar posibles problemas de diseño o producción y proponer soluciones.\n- Mantener alta productividad manejando múltiples proyectos y deadlines ajustados.\n- Mantenerse actualizado sobre estándares de producción, software y optimización de workflows.\n- Trabajar con templates, grids y sistemas de diseño establecidos.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe InDesign.\n- Adobe Photoshop.\n- Adobe Illustrator.\n- Adobe Acrobat.\n- Producción gráfica y digital.\n- Preparación de archivos para impresión.\n- Preprensa.\n- Resizing y versionamiento de piezas.\n- Layout y composición visual.\n- Jerarquía tipográfica.\n- Optimización de imágenes.\n- Asset management.\n- Control de versiones.\n- Manejo de formatos OOH, social y video.\n- Revisiones preflight y packaging de archivos.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Organización.\n- Gestión del tiempo.\n- Trabajo en equipo.\n- Comunicación efectiva.\n- Resolución de problemas.\n- Adaptabilidad.\n- Responsabilidad.\n- Capacidad para trabajar bajo presión.\n- Pensamiento técnico y visual.\n- Proactividad.\n- Orientación a la calidad y precisión."
+      }
+    },
+    "production-manager": {
+      "slug": "production-manager",
+      "nombre": "Production Manager",
+      "icono": "",
+      "descripcion_corta": "Gestiona proyectos creativos y de producción digital desde inicio hasta entrega, asegurando calidad, tiempos y presupuesto.",
+      "contexto_ai": "El Production Manager gestiona proyectos creativos y de producción digital desde su inicio hasta la entrega final, garantizando calidad, cumplimiento de tiempos, control presupuestal y alineación con estándares técnicos y de marca. Coordina equipos creativos, producción y desarrollo para asegurar una ejecución eficiente de assets digitales y campañas display.",
+      "skills": {
+        "role": "El puesto de Production Manager está enfocado en gestionar proyectos creativos y de producción digital desde su inicio hasta la entrega final, garantizando calidad, cumplimiento de tiempos, control presupuestal y alineación con estándares técnicos y de marca. La persona será responsable de coordinar equipos creativos, producción y desarrollo para asegurar una ejecución eficiente de assets digitales y campañas display.\n\nEste rol requiere habilidades sólidas de organización, producción digital y manejo de workflows complejos, trabajando de manera cercana con agencias, proveedores externos y equipos internos para garantizar entregas exitosas en múltiples plataformas.\n\n## Responsabilidades\n\n- Gestionar y supervisar actividades de postproducción relacionadas con proyectos digitales display.\n- Coordinar equipos creativos, producción y desarrollo para finalizar assets digitales.\n- Supervisar la preparación, optimización y formateo de banners estáticos, piezas animadas y rich media.\n- Garantizar que los assets cumplan especificaciones técnicas de plataformas como Google Display Network, Meta Ads y plataformas programáticas.\n- Revisar y aprobar archivos finales antes de su publicación o deployment.\n- Mantener cronogramas detallados y seguimiento de avances para cumplir fechas de lanzamiento.\n- Resolver problemas técnicos relacionados con formatos, animaciones o compatibilidad de assets digitales.\n- Coordinar con partners externos como ad servers, agencias de medios y proveedores tecnológicos.\n- Mantener organización de archivos finales, control de versiones y documentación de entregas.\n- Asegurar calidad, consistencia visual y cumplimiento de estándares de marca.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Gestión de producción digital.\n- Planeación y scheduling de proyectos.\n- Manejo de presupuestos.\n- Producción de display ads.\n- Optimización de assets digitales.\n- Rich media.\n- Gestión de banners estáticos y animados.\n- Control de calidad digital.\n- Conocimiento de Google Display Network y Meta Ads.\n- Manejo de workflows de postproducción.\n- Control de versiones y documentación.\n- Troubleshooting técnico.\n- Coordinación con ad servers y plataformas programáticas.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Organización.\n- Atención al detalle.\n- Comunicación efectiva.\n- Trabajo en equipo.\n- Resolución de problemas.\n- Gestión del tiempo.\n- Adaptabilidad.\n- Pensamiento estratégico.\n- Capacidad multitarea.\n- Liderazgo colaborativo.\n- Proactividad.\n- Trabajo bajo presión.\n- Orientación a resultados y calidad."
+      }
+    },
+    "proofreader": {
+      "slug": "proofreader",
+      "nombre": "Proofreader",
+      "icono": "",
+      "descripcion_corta": "Garantiza precisión, claridad y consistencia de los contenidos escritos, asegurando estándares gramaticales y tono de marca.",
+      "contexto_ai": "El Proofreader garantiza la precisión, claridad y consistencia de todos los contenidos escritos producidos por el equipo creativo y de producción. Revisa textos en distintos formatos —print, digital, guiones de video y materiales multimedia— asegurando que cumplan con estándares gramaticales, lineamientos de marca y tono de comunicación.",
+      "skills": {
+        "role": "El puesto de Proofreader está enfocado en garantizar la precisión, claridad y consistencia de todos los contenidos escritos producidos por el equipo creativo y de producción. La persona será responsable de revisar textos en distintos formatos —print, digital, guiones de video y materiales multimedia— asegurando que cumplan con estándares gramaticales, lineamientos de marca y tono de comunicación.\n\nEste rol es clave para mantener la calidad editorial y la coherencia de marca en todas las piezas de comunicación, trabajando de manera cercana con copywriters, diseñadores y equipos creativos.\n\n## Responsabilidades\n\n- Revisar y validar contenido antes de su publicación o entrega final.\n- Corregir errores de gramática, ortografía, puntuación y formato.\n- Verificar consistencia, claridad y alineación con la voz y tono de marca.\n- Realizar fact-checking del contenido producido por el estudio.\n- Colaborar con copywriters y diseñadores para asegurar calidad editorial y coherencia visual/textual.\n- Proporcionar feedback constructivo y sugerencias de mejora en textos.\n- Asegurar cumplimiento de guías de estilo y estándares editoriales.\n- Ayudar a desarrollar y actualizar procesos internos y mejores prácticas de proofreading.\n- Gestionar múltiples entregas manteniendo altos niveles de precisión y detalle.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Proofreading.\n- Corrección gramatical y ortográfica.\n- Fact-checking.\n- Revisión editorial.\n- Manejo de style guides.\n- Edición de contenido.\n- Revisión de formatos print y digitales.\n- Control de calidad editorial.\n- Herramientas colaborativas y project management tools.\n- Consistencia de marca y tono editorial.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Organización.\n- Comunicación efectiva.\n- Pensamiento crítico.\n- Trabajo en equipo.\n- Gestión del tiempo.\n- Responsabilidad.\n- Capacidad analítica.\n- Adaptabilidad.\n- Proactividad.\n- Precisión y enfoque en calidad.\n- Capacidad para dar feedback constructivo."
+      }
+    },
+    "retoucher": {
+      "slug": "retoucher",
+      "nombre": "Retoucher",
+      "icono": "",
+      "descripcion_corta": "Manipula imágenes y corrige color para producción final, asegurando calidad visual, precisión técnica y fidelidad de color.",
+      "contexto_ai": "El Retoucher se enfoca en la manipulación profesional de imágenes, corrección de color y optimización de materiales visuales para producción final. Ejecuta tareas de retoque fotográfico asegurando calidad visual, precisión técnica y fidelidad de color, colaborando con equipos creativos para mantener altos estándares estéticos y de marca.",
+      "skills": {
+        "role": "El puesto de Retoucher está enfocado en la manipulación profesional de imágenes, corrección de color y optimización de materiales visuales para producción final. La persona será responsable de ejecutar tareas de retoque fotográfico asegurando calidad visual, precisión técnica y fidelidad de color, además de colaborar con equipos creativos para mantener altos estándares estéticos y de marca.\n\nEste rol requiere experiencia sólida en workflows de postproducción y capacidad para trabajar en entornos dinámicos, manejando múltiples proyectos y resolviendo problemas técnicos relacionados con archivos y reproducción visual.\n\n## Responsabilidades\n\n- Ejecutar tareas de retoque fotográfico basadas en briefs creativos asignados.\n- Participar en reuniones de kickoff aportando feedback sobre la dirección creativa del retoque.\n- Resolver problemas técnicos relacionados con nombres de archivos, resolución, tamaños y perfiles de color.\n- Gestionar y solucionar problemas relacionados con materiales de reproducción final.\n- Garantizar calidad visual y consistencia en imágenes y piezas finales.\n- Colaborar con equipos creativos y producción para optimizar entregables.\n- Mantener organización de archivos, documentación y control de versiones.\n- Adaptarse a procesos y workflows cambiantes según necesidades del cliente y producción.\n- Cumplir deadlines manteniendo precisión y calidad técnica.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe Photoshop.\n- Retoque fotográfico.\n- Corrección y gestión de color.\n- Composición y manipulación de imágenes.\n- Adobe InDesign.\n- Adobe Illustrator.\n- Manejo de perfiles de color.\n- Preparación de archivos para reproducción final.\n- Troubleshooting técnico de archivos.\n- Gestión y organización de archivos.\n- Control de calidad visual.\n- Workflows de postproducción.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Organización.\n- Comunicación efectiva.\n- Trabajo en equipo.\n- Adaptabilidad.\n- Resolución de problemas.\n- Gestión del tiempo.\n- Responsabilidad.\n- Flexibilidad.\n- Pensamiento técnico y creativo.\n- Capacidad para dar feedback constructivo.\n- Trabajo bajo presión.\n- Orientación a calidad y precisión visual."
+      }
+    },
+    "retoucher-jr": {
+      "slug": "retoucher-jr",
+      "nombre": "Retoucher Jr",
+      "icono": "",
+      "descripcion_corta": "Apoya procesos de retoque fotográfico básico y corrección de color para piezas visuales y campañas creativas.",
+      "contexto_ai": "El Retoucher Jr. apoya procesos de retoque fotográfico, manipulación de imágenes y corrección de color para piezas visuales y campañas creativas. Ejecuta tareas básicas de retoque siguiendo lineamientos técnicos y creativos, asegurando organización, calidad visual y consistencia en los archivos entregados.",
+      "skills": {
+        "role": "El puesto de Retoucher Jr. está enfocado en apoyar procesos de retoque fotográfico, manipulación de imágenes y corrección de color para piezas visuales y campañas creativas. La persona será responsable de ejecutar tareas básicas de retoque siguiendo lineamientos técnicos y creativos, asegurando organización, calidad visual y consistencia en los archivos entregados.\n\nEste rol está orientado a perfiles en crecimiento dentro del área de postproducción visual, trabajando de manera cercana con retocadores senior, directores de arte y equipos creativos en un entorno colaborativo.\n\n## Responsabilidades\n\n- Apoyar al equipo en tareas básicas de retoque fotográfico siguiendo briefs y lineamientos establecidos.\n- Participar en reuniones de kickoff para comprender objetivos y expectativas de los proyectos.\n- Realizar correcciones básicas de color y ajustes simples de imágenes.\n- Ayudar en la resolución de problemas básicos relacionados con archivos, resolución, nombres y organización.\n- Identificar y reportar problemas en materiales de reproducción al equipo senior.\n- Aplicar feedback de retocadores senior y directores de arte para mejorar la calidad de las imágenes.\n- Mantener organización de archivos y control de versiones durante el proceso de producción.\n- Cumplir deadlines y adaptarse a cambios en necesidades de producción.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe Photoshop.\n- Retoque fotográfico.\n- Corrección de color.\n- Composición de imágenes.\n- Manipulación digital de imágenes.\n- Organización y versionamiento de archivos.\n- Resolución básica de problemas técnicos de imagen.\n- Manejo básico de InDesign e Illustrator.\n- Gestión de assets visuales.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Organización.\n- Trabajo en equipo.\n- Adaptabilidad.\n- Comunicación efectiva.\n- Capacidad para recibir feedback.\n- Responsabilidad.\n- Proactividad.\n- Disposición para aprender.\n- Manejo del tiempo.\n- Flexibilidad.\n- Orientación a la calidad visual."
+      }
+    },
+    "retoucher-mid": {
+      "slug": "retoucher-mid",
+      "nombre": "Retoucher Mid",
+      "icono": "",
+      "descripcion_corta": "Ejecuta manipulación avanzada de imágenes y corrección de color para proyectos creativos y de producción visual.",
+      "contexto_ai": "El Retoucher Mid se enfoca en la manipulación avanzada de imágenes, retoque fotográfico y corrección de color para proyectos creativos y de producción visual. Ejecuta tareas de retoque con precisión técnica y estética, garantizando calidad visual, fidelidad de color y preparación correcta de archivos para producción final.",
+      "skills": {
+        "role": "El puesto de Retoucher Mid está enfocado en la manipulación avanzada de imágenes, retoque fotográfico y corrección de color para proyectos creativos y de producción visual. La persona será responsable de ejecutar tareas de retoque con precisión técnica y estética, garantizando calidad visual, fidelidad de color y preparación correcta de archivos para producción final.\n\nEste rol requiere experiencia sólida en workflows de retoque y colaboración constante con directores de arte, productores y equipos creativos para asegurar entregables alineados con los estándares visuales y objetivos de marca.\n\n## Responsabilidades\n\n- Ejecutar tareas de retoque fotográfico basadas en briefs creativos y técnicos.\n- Participar en reuniones de kickoff aportando recomendaciones sobre enfoques de retoque.\n- Realizar manipulación de imágenes y corrección de color asegurando calidad y consistencia.\n- Resolver problemas técnicos relacionados con archivos, resolución, tamaños y perfiles de color.\n- Optimizar archivos para producción y reproducción final.\n- Identificar y solucionar problemas en materiales de reproducción para garantizar calidad visual.\n- Colaborar con directores de arte y productores ofreciendo recomendaciones técnicas y creativas.\n- Mantener organización de archivos, documentación y control de versiones.\n- Cumplir deadlines y adaptarse a workflows dinámicos y cambiantes.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe Photoshop.\n- Retoque fotográfico avanzado.\n- Corrección de color.\n- Composición y manipulación de imágenes.\n- Manejo de perfiles de color.\n- Optimización de archivos para producción.\n- Troubleshooting técnico de archivos.\n- Gestión y organización de archivos.\n- Adobe InDesign (básico/intermedio).\n- Adobe Illustrator (básico/intermedio).\n- Control de calidad visual.\n- Preparación de materiales para reproducción final.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Organización.\n- Trabajo en equipo.\n- Comunicación efectiva.\n- Adaptabilidad.\n- Resolución de problemas.\n- Responsabilidad.\n- Gestión del tiempo.\n- Capacidad para recibir y aportar feedback constructivo.\n- Flexibilidad.\n- Pensamiento técnico y creativo.\n- Orientación a calidad visual y precisión."
+      }
+    },
+    "retoucher-sr": {
+      "slug": "retoucher-sr",
+      "nombre": "Retoucher Sr",
+      "icono": "",
+      "descripcion_corta": "Lidera procesos avanzados de retoque fotográfico y gestión de color, aportando criterio creativo y resolviendo problemas técnicos complejos.",
+      "contexto_ai": "El Retoucher Sr. lidera y ejecuta procesos avanzados de retoque fotográfico, manipulación de imágenes y gestión de color para proyectos creativos y de producción visual. Garantiza altos estándares de calidad visual, resuelve problemas técnicos complejos y aporta criterio creativo en la dirección del retoque final de piezas y campañas.",
+      "skills": {
+        "role": "El puesto de Retoucher Sr. está enfocado en liderar y ejecutar procesos avanzados de retoque fotográfico, manipulación de imágenes y gestión de color para proyectos creativos y de producción visual. La persona será responsable de garantizar altos estándares de calidad visual, resolver problemas técnicos complejos y aportar criterio creativo en la dirección del retoque final de piezas y campañas.\n\nEste rol requiere experiencia sólida en workflows de postproducción, manejo técnico avanzado de archivos e interacción constante con equipos creativos y de producción para asegurar entregables visualmente impecables y alineados con los objetivos de marca.\n\n## Responsabilidades\n\n- Ejecutar tareas avanzadas de retoque fotográfico basadas en briefs creativos.\n- Participar en reuniones de kickoff aportando feedback y dirección creativa sobre procesos de retoque.\n- Resolver problemas técnicos relacionados con nombres de archivos, resolución, tamaños, perfiles de color y organización.\n- Gestionar y solucionar problemas de reproducción final de materiales.\n- Garantizar calidad visual, consistencia y fidelidad de color en imágenes finales.\n- Colaborar con equipos creativos y producción para optimizar entregables visuales.\n- Mantener organización de archivos, documentación y control de versiones.\n- Adaptarse a workflows dinámicos y necesidades cambiantes del cliente.\n- Cumplir deadlines y estándares de producción bajo presión.",
+        "team": "",
+        "workflow": "",
+        "tools": "## Habilidades técnicas (Hard Skills)\n\n- Adobe Photoshop avanzado.\n- Retoque fotográfico profesional.\n- Corrección y gestión de color.\n- Composición y manipulación avanzada de imágenes.\n- Adobe InDesign.\n- Adobe Illustrator.\n- Manejo de perfiles de color y output devices.\n- Troubleshooting técnico de archivos.\n- Preparación de materiales para reproducción final.\n- Gestión y organización de archivos.\n- Control de calidad visual.\n- Workflows de postproducción.",
+        "tips": "## Habilidades personales (Soft Skills)\n\n- Atención al detalle.\n- Pensamiento técnico y creativo.\n- Comunicación efectiva.\n- Trabajo en equipo.\n- Adaptabilidad.\n- Resolución de problemas.\n- Gestión del tiempo.\n- Responsabilidad.\n- Flexibilidad.\n- Capacidad para dar feedback constructivo.\n- Organización.\n- Trabajo bajo presión.\n- Orientación a calidad y excelencia visual."
+      }
+    }
+  }
+}

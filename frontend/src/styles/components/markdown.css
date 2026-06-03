@@ -1,0 +1,52 @@
+/* Block: md ─ markdown renderizado con dos tonos: default y on-primary. */
+
+/* Elementos base — propiedades estructurales comunes a ambos tonos */
+.md__h1     { @apply font-bold text-2xl leading-7 mt-6 mb-2.5; }
+.md__h2     { @apply font-bold text-xl  leading-6 mt-5 mb-2; }
+.md__h3     { @apply font-semibold text-base leading-5 mt-4 mb-1.5; }
+.md__p      { @apply text-sm leading-5 my-1.5; }
+.md__ul     { @apply my-2 pl-5 list-disc; }
+.md__ol     { @apply my-2 pl-5 list-decimal; }
+.md__li     { @apply text-sm leading-5 my-0.5; }
+.md__em     { @apply italic; }
+.md__strong { @apply font-bold; }
+.md__code   { @apply px-1.5 py-0.5 rounded text-xs; }
+.md__table  { @apply w-full border-collapse my-3; }
+.md__th     { @apply font-semibold text-[13px] py-1.5 px-2.5 border-b text-left; }
+.md__td     { @apply text-[13px] py-1.5 px-2.5 border-b; }
+
+/* ── Tono default (sobre level_2/3) ────────────────────────────────────── */
+.md--default .md__h1,
+.md--default .md__h2,
+.md--default .md__h3,
+.md--default .md__strong { @apply text-txt-primary; }
+
+.md--default .md__p,
+.md--default .md__li,
+.md--default .md__em     { @apply text-txt-tertiary; }
+
+.md--default .md__code   { @apply bg-level-4 text-op-500; }
+.md--default .md__ul,
+.md--default .md__ol     { @apply marker:text-op-600; }
+
+.md--default .md__th     { @apply text-txt-primary border-level-6; }
+.md--default .md__td     { @apply text-txt-tertiary border-level-6; }
+
+/* ── Tono on-primary (sobre op-600, burbujas usuario) ──────────────────── */
+.md--on-primary .md__h1,
+.md--on-primary .md__h2,
+.md--on-primary .md__h3,
+.md--on-primary .md__strong { @apply text-white; }
+
+.md--on-primary .md__p,
+.md--on-primary .md__li     { @apply text-white/95; }
+
+.md--on-primary .md__em     { @apply text-white/90; }
+.md--on-primary .md__code   { @apply text-white; background: rgba(255, 255, 255, 0.15); }
+.md--on-primary .md__ul,
+.md--on-primary .md__ol     { @apply marker:text-white; }
+
+.md--on-primary .md__th,
+.md--on-primary .md__td     { border-color: rgba(255, 255, 255, 0.2); }
+.md--on-primary .md__th     { @apply text-white; }
+.md--on-primary .md__td     { @apply text-white/95; }
